@@ -1,0 +1,97 @@
+{
+	"userAppConfig":{
+		"aplicationName": "RMC-IoT",
+		"GPIOConfig": {
+			"GPIOInputPins": [16],
+			"GPIOOutputPins": [12],
+			"toggleInterval": 19,
+			"eventWatchCh": null
+		}
+	},
+	"iaCloudConfig":{
+		"userID": "HackathonTest",
+		"password": "UgtH0-YUekd(",
+		"FDSKey": "com.atbridge-cnsltg.raspberrypi-1",
+		"FDSType": "iaCloudFDS",
+		"comment": "ia-cloud Sample Application for RaspberryPi",
+		"requestUrl": "https://r9431tn90a.execute-api.us-east-1.amazonaws.com/hackathon/api/iaCloud/rev06",
+		"options": {
+			"logName": "iaCloud",
+			"httpTimeout": [10,30],
+			"httpRetry": 2,
+			"proxies": null,
+			"timezone":"JST",
+			"errorValue": null,
+			"debug": false,
+			"periodicObjects": ["CPU_info","SENSORS_INFO"],
+			"asyncObjects": []
+		}
+	},
+	"CPU_info": {
+		"objectKey": "com.atbridge-cnsltg.raspberrypi-1.shimura.CPUInfo",
+		"objectType": "iaCloudObject",
+		"objectDescription": "RaspberryPi CPU情報",
+		"timeStamp": null,
+		"options":{
+			"period": 300,
+			"source": "CPU_info"
+		},
+		"ObjectContent": {
+			"contentType": "iaCloudData",
+			"contentData": [{
+				"dataName": "CPU温度",
+				"dataValue": null,
+				"unit": "°C",
+				"options": {
+					"source":"cat /sys/class/thermal/thermal_zone0/temp",
+					"gain": 0.001,
+					"offset": 0
+				}
+			},{
+			"dataName": "CPU使用率",
+			"dataValue": null,
+			"unit": "%",
+			"options": {
+				"source":"vmstat | tail -1 | awk '{print $15}'",
+				"gain": -1,
+				"offset": 100
+				}
+			},{
+			"dataName": "空きメモリ量",
+			"dataValue": null,
+			"unit": "MB",
+			"options": {
+				"source":"vmstat | tail -1 | awk '{print $4}'",
+				"gain": 0.001,
+				"offset": 0
+				}
+			}]
+		}
+	},
+	"SENSORS_INFO": {
+		"objectKey": "com.atbridge-cnsltg.raspberrypi-1.shimura.ct-sensor",
+		"objectType": "iaCloudObject",
+		"objectDescription": "CT(電流センサー)の値",
+		"timestamp": null,
+		"options":{
+			"period": 60,
+			"source": "SENSORS_INFO"
+		},
+		"ObjectContent": {
+			"contentType": "iaCloudData",
+			"contentData":[{
+				"dataName": "CTセンサー(電流)",
+				"dataValue": null,
+				"unit": "V",
+				"options":"ct_sensor_value",
+				"gain": 16,
+				"offset": 0
+			},{
+				"dataName": "超音波センサー",
+				"dataValue": null,
+				"unit": "cm",
+				"options": "usonic_sensor_value"
+			}]
+		}
+	}
+}
