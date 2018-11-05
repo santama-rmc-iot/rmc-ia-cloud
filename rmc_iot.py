@@ -49,8 +49,8 @@ TOGGLE＿INTERVAL = 30
 EVENT_CH = 40
 
 def ct_sensor_value():
-	adc = Adafruit_ADS1x15.ADS1015()
-	return adc.read_adc(0, 16)
+	adc = Adafruit_ADS1x15.ADS1115()
+	return adc.read_adc(0, 16) * (0.256 / 32768)
 
 def usonic_sensor_value():
 	GPIO.output(12, True)
