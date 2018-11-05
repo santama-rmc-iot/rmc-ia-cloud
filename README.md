@@ -28,11 +28,14 @@ microSDカードを差し込めるwindowsパソコン
 
 http://share-lab.net/raspberrypi2
 
-## ソフトウェアの準備
+## 環境構築
 
-インストールが終わりましたら、OSの設定を変更していきます。
+ADS1115用のpythonライブラリを追加する。
 
+```
+$ git clone https://github.com/adafruit/Adafruit_Python_ADS1x15.git
+$ cd Adafruit_Python_ADS1x15/
+$ sudo python3 setup.py install
+```
 
-
-# 実行
 
