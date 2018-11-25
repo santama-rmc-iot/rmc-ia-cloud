@@ -2,6 +2,17 @@
 # -*- coding: utf-8 -*-
 import time
 import RPi.GPIO as GPIO
+import sys
+
+
+repeat = 5
+sleep_sec = 1
+
+if len(sys.argv) > 1:
+    repeat = int(sys.argv[1])
+
+if len(sys.argv) > 2:
+    sleep_sec = int(sys.argv[2])
 
 def reading():
     GPIO.setwarnings(False)
@@ -30,7 +41,7 @@ def reading():
     return distance
     GPIO.cleanup()
         
-for i in range(105):
+for i in range(repeat):
   msg = "超音波センサー:{0} cm".format(reading())
-  time.sleep(1)
+  time.sleep(sleep_sec)
   print(msg)
