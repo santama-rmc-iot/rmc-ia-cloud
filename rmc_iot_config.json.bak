@@ -9,8 +9,8 @@
 		}
 	},
 	"iaCloudConfig":{
-		"userID": "HackathonUser_21",
-		"password": "PsX2v4ewtc2K",
+		"userID": "HackathonTest",
+		"password": "UgtH0-YUekd(",
 		"FDSKey": "com.atbridge-cnsltg.raspberrypi-1",
 		"FDSType": "iaCloudFDS",
 		"comment": "ia-cloud Sample Application for RaspberryPi",
@@ -23,7 +23,7 @@
 			"timezone":"JST",
 			"errorValue": null,
 			"debug": false,
-			"periodicObjects": ["SENSORS_INFO"],
+			"periodicObjects": ["CPU_info","SENSORS_INFO"],
 			"asyncObjects": []
 		}
 	},
@@ -69,9 +69,9 @@
 		}
 	},
 	"SENSORS_INFO": {
-		"objectKey": "rmc-iot-santama.shimura.sensors",
+		"objectKey": "com.atbridge-cnsltg.raspberrypi-1.shimura.ct-sensor",
 		"objectType": "iaCloudObject",
-		"objectDescription":  "センサーの値",
+		"objectDescription": "CT(電流センサー)の値",
 		"timestamp": null,
 		"options":{
 			"period": 60,
@@ -80,15 +80,13 @@
 		"ObjectContent": {
 			"contentType": "iaCloudData",
 			"contentData":[{
-				"commonName": "Voltage",
-				"dataName": "CTセンサー",
+				"dataName": "CTセンサー(電流)",
 				"dataValue": null,
 				"unit": "V",
 				"options":"ct_sensor_value",
 				"gain": 16,
 				"offset": 0
 			},{
-				"commonName": "Distance",
 				"dataName": "超音波センサー",
 				"dataValue": null,
 				"unit": "cm",

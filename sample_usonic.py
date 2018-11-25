@@ -30,7 +30,7 @@ def reading():
     return distance
     GPIO.cleanup()
         
-for i in range(5):
+for i in range(105):
   msg = "超音波センサー:{0} cm".format(reading())
   time.sleep(1)
   print(msg)

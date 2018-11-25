@@ -1,0 +1,345 @@
+2018-11-10 14:47:30,526 - iaCloud - INFO - IaCloudApp is started
+2018-11-10 14:47:35,292 - iaCloud - INFO - connected to CCS
+2018-11-10 14:47:35,423 - iaCloud - INFO - CTセンサー(電流) [V]: 0.051125000000000004
+2018-11-10 14:47:35,485 - iaCloud - INFO - 超音波センサー [cm]: 1021.0487842559814
+2018-11-10 14:47:35,726 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-10 14:47:35,935 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-10 14:48:35,313 - iaCloud - INFO - CTセンサー(電流) [V]: 0.0672421875
+2018-11-10 14:48:35,376 - iaCloud - INFO - 超音波センサー [cm]: 1020.789384841919
+2018-11-10 14:48:36,017 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-10 14:49:35,312 - iaCloud - INFO - CTセンサー(電流) [V]: 0.05121875
+2018-11-10 14:49:35,375 - iaCloud - INFO - 超音波センサー [cm]: 1020.7812786102295
+2018-11-10 14:49:35,739 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-10 14:50:35,312 - iaCloud - INFO - CTセンサー(電流) [V]: 0.054054687500000004
+2018-11-10 14:50:35,375 - iaCloud - INFO - 超音波センサー [cm]: 1020.7691192626953
+2018-11-10 14:50:35,753 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-10 14:51:35,313 - iaCloud - INFO - CTセンサー(電流) [V]: 0.056796875000000004
+2018-11-10 14:51:35,376 - iaCloud - INFO - 超音波センサー [cm]: 1020.7569599151611
+2018-11-10 14:51:35,760 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-10 14:52:35,323 - iaCloud - INFO - CTセンサー(電流) [V]: 0.04803125
+2018-11-10 14:52:35,397 - iaCloud - INFO - 超音波センサー [cm]: 1020.9839344024658
+2018-11-10 14:52:36,232 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-10 14:52:37,158 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 17:32:55,500 - iaCloud - INFO - IaCloudApp is started
+2018-11-25 17:33:00,302 - iaCloud - INFO - connected to CCS
+2018-11-25 17:33:00,442 - iaCloud - INFO - CTセンサー [V]: 0.1202578125
+2018-11-25 17:33:00,449 - iaCloud - INFO - 超音波センサー [cm]: 94.74968910217285
+2018-11-25 17:33:00,754 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 17:33:01,363 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 17:34:00,333 - iaCloud - INFO - CTセンサー [V]: 0.1234765625
+2018-11-25 17:34:00,396 - iaCloud - INFO - 超音波センサー [cm]: 1020.4854011535645
+2018-11-25 17:34:00,802 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 17:35:00,333 - iaCloud - INFO - CTセンサー [V]: 0.1265078125
+2018-11-25 17:35:32,377 - iaCloud - INFO - 超音波センサー [cm]: 1020.5137729644775
+2018-11-25 17:35:33,022 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 17:36:00,333 - iaCloud - INFO - CTセンサー [V]: 0.12459375
+2018-11-25 17:36:00,348 - iaCloud - INFO - 超音波センサー [cm]: 208.53281021118164
+2018-11-25 17:36:00,750 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 17:37:00,330 - iaCloud - INFO - CTセンサー [V]: 0.141640625
+2018-11-25 17:37:00,393 - iaCloud - INFO - 超音波センサー [cm]: 1020.6475257873535
+2018-11-25 17:37:00,758 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 17:38:00,340 - iaCloud - INFO - CTセンサー [V]: 0.120375
+2018-11-25 17:38:00,362 - iaCloud - INFO - 超音波センサー [cm]: 290.0571823120117
+2018-11-25 17:38:01,002 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 17:38:02,748 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 17:39:00,335 - iaCloud - INFO - CTセンサー [V]: 0.11671875
+2018-11-25 17:39:00,397 - iaCloud - INFO - 超音波センサー [cm]: 1020.5583572387695
+2018-11-25 17:39:00,851 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 17:40:00,335 - iaCloud - INFO - CTセンサー [V]: 0.1093828125
+2018-11-25 17:40:00,399 - iaCloud - INFO - 超音波センサー [cm]: 1020.6961631774902
+2018-11-25 17:40:01,170 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 17:40:29,943 - iaCloud - INFO - IaCloudApp　connection has been terminated and all data acquisition threads stopped by stop() method
+2018-11-25 17:40:29,964 - iaCloud - ERROR - Application has been terminated by key interruppt
+2018-11-25 17:40:33,050 - iaCloud - INFO - IaCloudApp is started
+2018-11-25 17:40:33,971 - iaCloud - INFO - connected to CCS
+2018-11-25 17:40:34,152 - iaCloud - INFO - CTセンサー [V]: 0.106265625
+2018-11-25 17:40:34,214 - iaCloud - INFO - 超音波センサー [cm]: 1020.8339691162109
+2018-11-25 17:40:34,456 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 17:40:35,064 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 17:41:33,995 - iaCloud - INFO - CTセンサー [V]: 0.122609375
+2018-11-25 17:41:34,058 - iaCloud - INFO - 超音波センサー [cm]: 1020.6758975982666
+2018-11-25 17:41:34,520 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 17:42:33,995 - iaCloud - INFO - CTセンサー [V]: 0.108296875
+2018-11-25 17:42:34,058 - iaCloud - INFO - 超音波センサー [cm]: 1020.6799507141113
+2018-11-25 17:42:34,439 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 17:43:33,995 - iaCloud - INFO - CTセンサー [V]: 0.1011328125
+2018-11-25 17:43:34,058 - iaCloud - INFO - 超音波センサー [cm]: 1020.6232070922852
+2018-11-25 17:43:34,696 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 17:44:33,996 - iaCloud - INFO - CTセンサー [V]: 0.0924140625
+2018-11-25 17:44:34,002 - iaCloud - INFO - 超音波センサー [cm]: 63.970327377319336
+2018-11-25 17:44:34,726 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 17:45:34,006 - iaCloud - INFO - CTセンサー [V]: 0.09235937500000001
+2018-11-25 17:45:34,075 - iaCloud - INFO - 超音波センサー [cm]: 1026.0908603668213
+2018-11-25 17:45:34,520 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 17:45:34,691 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 17:46:34,000 - iaCloud - INFO - CTセンサー [V]: 0.0762265625
+2018-11-25 17:46:34,008 - iaCloud - INFO - 超音波センサー [cm]: 24.051189422607422
+2018-11-25 17:46:34,399 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 17:47:34,000 - iaCloud - INFO - CTセンサー [V]: 0.08471875
+2018-11-25 17:47:34,063 - iaCloud - INFO - 超音波センサー [cm]: 1020.6799507141113
+2018-11-25 17:47:34,779 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 17:48:34,000 - iaCloud - INFO - CTセンサー [V]: 0.08165625
+2018-11-25 17:48:34,004 - iaCloud - INFO - 超音波センサー [cm]: 21.37613296508789
+2018-11-25 17:48:34,723 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 17:49:34,000 - iaCloud - INFO - CTセンサー [V]: 0.0668515625
+2018-11-25 17:49:34,063 - iaCloud - INFO - 超音波センサー [cm]: 1020.6961631774902
+2018-11-25 17:49:34,722 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 17:50:34,009 - iaCloud - INFO - CTセンサー [V]: 0.07028125
+2018-11-25 17:50:34,015 - iaCloud - INFO - 超音波センサー [cm]: 18.032312393188477
+2018-11-25 17:50:34,709 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 17:50:35,001 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 17:51:30,222 - iaCloud - INFO - IaCloudApp　connection has been terminated and all data acquisition threads stopped by stop() method
+2018-11-25 17:51:30,232 - iaCloud - ERROR - Application has been terminated by key interruppt
+2018-11-25 17:51:33,344 - iaCloud - INFO - IaCloudApp is started
+2018-11-25 17:51:34,193 - iaCloud - INFO - connected to CCS
+2018-11-25 17:51:34,375 - iaCloud - INFO - CTセンサー [V]: 0.0713984375
+2018-11-25 17:51:34,378 - iaCloud - INFO - 超音波センサー [cm]: 20.808696746826172
+2018-11-25 17:51:35,063 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-25 17:51:35,065 - iaCloud - ERROR - Error massage:Bad JSON response with KeyError
+　response data :{'errorMessage': 'RequestId: 4ff3fdf8-f08f-11e8-977d-45a3ec179292 Process exited before completing request'}
+2018-11-25 17:51:35,068 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "CT(\u96fb\u6d41\u30bb\u30f3\u30b5\u30fc)\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "com.ia-cloud.contenttype.hackathon2017.temp01", "contentData": [{"commonName": "Voltage", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.0713984375}, {"commonName": "distance", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 20.808696746826172}]}, "timeStamp": "2018-11-25T17:51:34.379709+09:00"}
+2018-11-25 17:51:35,731 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 17:51:36,521 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-25 17:51:36,523 - iaCloud - ERROR - Error massage:Bad JSON response with KeyError
+　response data :{'errorMessage': 'RequestId: 506c6262-f08f-11e8-8246-4d697629d57f Process exited before completing request'}
+2018-11-25 17:51:36,526 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "CT(\u96fb\u6d41\u30bb\u30f3\u30b5\u30fc)\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "com.ia-cloud.contenttype.hackathon2017.temp01", "contentData": [{"commonName": "Voltage", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.0713984375}, {"commonName": "distance", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 20.808696746826172}]}, "timeStamp": "2018-11-25T17:51:34.379709+09:00"}
+2018-11-25 17:51:37,708 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-25 17:51:37,710 - iaCloud - ERROR - Error massage:Bad JSON response with KeyError
+　response data :{'errorMessage': 'RequestId: 511aa3e6-f08f-11e8-bbe2-bbef2c2a48b0 Process exited before completing request'}
+2018-11-25 17:51:37,713 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "CT(\u96fb\u6d41\u30bb\u30f3\u30b5\u30fc)\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "com.ia-cloud.contenttype.hackathon2017.temp01", "contentData": [{"commonName": "Voltage", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.0713984375}, {"commonName": "distance", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 20.808696746826172}]}, "timeStamp": "2018-11-25T17:51:34.379709+09:00"}
+2018-11-25 17:51:37,714 - iaCloud - ERROR - CCS periodic store request has been retried out. The periodic acq. thread continues without data stored.
+2018-11-25 17:52:34,214 - iaCloud - INFO - CTセンサー [V]: 0.0880859375
+2018-11-25 17:52:34,277 - iaCloud - INFO - 超音波センサー [cm]: 1020.5056667327881
+2018-11-25 17:52:35,795 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-25 17:52:35,797 - iaCloud - ERROR - Error massage:Bad JSON response with KeyError
+　response data :{'errorMessage': 'RequestId: 73b65a2f-f08f-11e8-ba36-2d6b2e73f6ee Process exited before completing request'}
+2018-11-25 17:52:35,800 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "CT(\u96fb\u6d41\u30bb\u30f3\u30b5\u30fc)\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "com.ia-cloud.contenttype.hackathon2017.temp01", "contentData": [{"commonName": "Voltage", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.0880859375}, {"commonName": "distance", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 1020.5056667327881}]}, "timeStamp": "2018-11-25T17:52:34.280006+09:00"}
+2018-11-25 17:52:36,908 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-25 17:52:36,910 - iaCloud - ERROR - Error massage:Bad JSON response with KeyError
+　response data :{'errorMessage': 'RequestId: 746f976b-f08f-11e8-a630-8f8061d542fb Process exited before completing request'}
+2018-11-25 17:52:36,914 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "CT(\u96fb\u6d41\u30bb\u30f3\u30b5\u30fc)\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "com.ia-cloud.contenttype.hackathon2017.temp01", "contentData": [{"commonName": "Voltage", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.0880859375}, {"commonName": "distance", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 1020.5056667327881}]}, "timeStamp": "2018-11-25T17:52:34.280006+09:00"}
+2018-11-25 17:52:38,109 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-25 17:52:38,111 - iaCloud - ERROR - Error massage:Bad JSON response with KeyError
+　response data :{'errorMessage': 'RequestId: 751af31a-f08f-11e8-98c3-11a03601897c Process exited before completing request'}
+2018-11-25 17:52:38,114 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "CT(\u96fb\u6d41\u30bb\u30f3\u30b5\u30fc)\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "com.ia-cloud.contenttype.hackathon2017.temp01", "contentData": [{"commonName": "Voltage", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.0880859375}, {"commonName": "distance", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 1020.5056667327881}]}, "timeStamp": "2018-11-25T17:52:34.280006+09:00"}
+2018-11-25 17:52:38,116 - iaCloud - ERROR - CCS periodic store request has been retried out. The periodic acq. thread continues without data stored.
+2018-11-25 17:53:34,211 - iaCloud - INFO - CTセンサー [V]: 0.0705703125
+2018-11-25 17:53:34,228 - iaCloud - INFO - 超音波センサー [cm]: 248.49247932434082
+2018-11-25 17:53:35,946 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-25 17:53:35,947 - iaCloud - ERROR - Error massage:Bad JSON response with KeyError
+　response data :{'errorMessage': 'RequestId: 979083cf-f08f-11e8-8f6d-2f532ad2e069 Process exited before completing request'}
+2018-11-25 17:53:35,957 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "CT(\u96fb\u6d41\u30bb\u30f3\u30b5\u30fc)\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "com.ia-cloud.contenttype.hackathon2017.temp01", "contentData": [{"commonName": "Voltage", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.0705703125}, {"commonName": "distance", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 248.49247932434082}]}, "timeStamp": "2018-11-25T17:53:34.229251+09:00"}
+2018-11-25 17:53:37,082 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-25 17:53:37,084 - iaCloud - ERROR - Error massage:Bad JSON response with KeyError
+　response data :{'errorMessage': 'RequestId: 984999e1-f08f-11e8-a5bd-3bb68be82b03 Process exited before completing request'}
+2018-11-25 17:53:37,086 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "CT(\u96fb\u6d41\u30bb\u30f3\u30b5\u30fc)\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "com.ia-cloud.contenttype.hackathon2017.temp01", "contentData": [{"commonName": "Voltage", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.0705703125}, {"commonName": "distance", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 248.49247932434082}]}, "timeStamp": "2018-11-25T17:53:34.229251+09:00"}
+2018-11-25 17:53:38,218 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-25 17:53:38,220 - iaCloud - ERROR - Error massage:Bad JSON response with KeyError
+　response data :{'errorMessage': 'RequestId: 98f76673-f08f-11e8-8bf6-2727a7cfd338 Process exited before completing request'}
+2018-11-25 17:53:38,222 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "CT(\u96fb\u6d41\u30bb\u30f3\u30b5\u30fc)\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "com.ia-cloud.contenttype.hackathon2017.temp01", "contentData": [{"commonName": "Voltage", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.0705703125}, {"commonName": "distance", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 248.49247932434082}]}, "timeStamp": "2018-11-25T17:53:34.229251+09:00"}
+2018-11-25 17:53:38,225 - iaCloud - ERROR - CCS periodic store request has been retried out. The periodic acq. thread continues without data stored.
+2018-11-25 17:54:34,214 - iaCloud - INFO - CTセンサー [V]: 0.054781250000000004
+2018-11-25 17:54:34,277 - iaCloud - INFO - 超音波センサー [cm]: 1020.7934379577637
+2018-11-25 17:54:35,848 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-25 17:54:35,849 - iaCloud - ERROR - Error massage:Bad JSON response with KeyError
+　response data :{'errorMessage': 'RequestId: bb3da8e1-f08f-11e8-9b75-93838aaefe36 Process exited before completing request'}
+2018-11-25 17:54:35,850 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "CT(\u96fb\u6d41\u30bb\u30f3\u30b5\u30fc)\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "com.ia-cloud.contenttype.hackathon2017.temp01", "contentData": [{"commonName": "Voltage", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.054781250000000004}, {"commonName": "distance", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 1020.7934379577637}]}, "timeStamp": "2018-11-25T17:54:34.279729+09:00"}
+2018-11-25 17:54:37,299 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-25 17:54:37,301 - iaCloud - ERROR - Error massage:Bad JSON response with KeyError
+　response data :{'errorMessage': 'RequestId: bc2e71d9-f08f-11e8-93ec-7b8215443fba Process exited before completing request'}
+2018-11-25 17:54:37,303 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "CT(\u96fb\u6d41\u30bb\u30f3\u30b5\u30fc)\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "com.ia-cloud.contenttype.hackathon2017.temp01", "contentData": [{"commonName": "Voltage", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.054781250000000004}, {"commonName": "distance", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 1020.7934379577637}]}, "timeStamp": "2018-11-25T17:54:34.279729+09:00"}
+2018-11-25 17:54:38,418 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-25 17:54:38,420 - iaCloud - ERROR - Error massage:Bad JSON response with KeyError
+　response data :{'errorMessage': 'RequestId: bcdb7b2c-f08f-11e8-94c3-7db847cbbdc3 Process exited before completing request'}
+2018-11-25 17:54:38,422 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "CT(\u96fb\u6d41\u30bb\u30f3\u30b5\u30fc)\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "com.ia-cloud.contenttype.hackathon2017.temp01", "contentData": [{"commonName": "Voltage", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.054781250000000004}, {"commonName": "distance", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 1020.7934379577637}]}, "timeStamp": "2018-11-25T17:54:34.279729+09:00"}
+2018-11-25 17:54:38,424 - iaCloud - ERROR - CCS periodic store request has been retried out. The periodic acq. thread continues without data stored.
+2018-11-25 17:55:34,215 - iaCloud - INFO - CTセンサー [V]: 0.063171875
+2018-11-25 17:55:34,277 - iaCloud - INFO - 超音波センサー [cm]: 1020.8258628845215
+2018-11-25 17:55:35,784 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-25 17:55:35,785 - iaCloud - ERROR - Error massage:Bad JSON response with KeyError
+　response data :{'errorMessage': 'RequestId: df007a39-f08f-11e8-a1d6-397c932e02e8 Process exited before completing request'}
+2018-11-25 17:55:35,787 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "CT(\u96fb\u6d41\u30bb\u30f3\u30b5\u30fc)\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "com.ia-cloud.contenttype.hackathon2017.temp01", "contentData": [{"commonName": "Voltage", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.063171875}, {"commonName": "distance", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 1020.8258628845215}]}, "timeStamp": "2018-11-25T17:55:34.278899+09:00"}
+2018-11-25 17:55:36,886 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-25 17:55:36,887 - iaCloud - ERROR - Error massage:Bad JSON response with KeyError
+　response data :{'errorMessage': 'RequestId: dfb412f8-f08f-11e8-a30f-6f24c721334a Process exited before completing request'}
+2018-11-25 17:55:36,890 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "CT(\u96fb\u6d41\u30bb\u30f3\u30b5\u30fc)\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "com.ia-cloud.contenttype.hackathon2017.temp01", "contentData": [{"commonName": "Voltage", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.063171875}, {"commonName": "distance", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 1020.8258628845215}]}, "timeStamp": "2018-11-25T17:55:34.278899+09:00"}
+2018-11-25 17:55:38,308 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-25 17:55:38,310 - iaCloud - ERROR - Error massage:Bad JSON response with KeyError
+　response data :{'errorMessage': 'RequestId: e091054c-f08f-11e8-ad08-0d5679845b96 Process exited before completing request'}
+2018-11-25 17:55:38,312 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "CT(\u96fb\u6d41\u30bb\u30f3\u30b5\u30fc)\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "com.ia-cloud.contenttype.hackathon2017.temp01", "contentData": [{"commonName": "Voltage", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.063171875}, {"commonName": "distance", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 1020.8258628845215}]}, "timeStamp": "2018-11-25T17:55:34.278899+09:00"}
+2018-11-25 17:55:38,314 - iaCloud - ERROR - CCS periodic store request has been retried out. The periodic acq. thread continues without data stored.
+2018-11-25 17:56:34,224 - iaCloud - INFO - CTセンサー [V]: 0.06275
+2018-11-25 17:56:34,296 - iaCloud - INFO - 超音波センサー [cm]: 1020.6313133239746
+2018-11-25 17:56:35,522 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 17:56:35,533 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-25 17:56:35,537 - iaCloud - ERROR - Error massage:Bad JSON response with KeyError
+　response data :{'errorMessage': 'RequestId: 02977fe8-f090-11e8-9236-ad2a27b0995f Process exited before completing request'}
+2018-11-25 17:56:35,539 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "CT(\u96fb\u6d41\u30bb\u30f3\u30b5\u30fc)\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "com.ia-cloud.contenttype.hackathon2017.temp01", "contentData": [{"commonName": "Voltage", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.06275}, {"commonName": "distance", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 1020.6313133239746}]}, "timeStamp": "2018-11-25T17:56:34.302071+09:00"}
+2018-11-25 17:56:36,988 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-25 17:56:36,989 - iaCloud - ERROR - Error massage:Bad JSON response with KeyError
+　response data :{'errorMessage': 'RequestId: 0384ed0d-f090-11e8-896d-41b7caf3f7ef Process exited before completing request'}
+2018-11-25 17:56:36,992 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "CT(\u96fb\u6d41\u30bb\u30f3\u30b5\u30fc)\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "com.ia-cloud.contenttype.hackathon2017.temp01", "contentData": [{"commonName": "Voltage", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.06275}, {"commonName": "distance", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 1020.6313133239746}]}, "timeStamp": "2018-11-25T17:56:34.302071+09:00"}
+2018-11-25 17:56:38,441 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-25 17:56:38,443 - iaCloud - ERROR - Error massage:Bad JSON response with KeyError
+　response data :{'errorMessage': 'RequestId: 0463b41e-f090-11e8-9b27-978e6aa61cd7 Process exited before completing request'}
+2018-11-25 17:56:38,445 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "CT(\u96fb\u6d41\u30bb\u30f3\u30b5\u30fc)\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "com.ia-cloud.contenttype.hackathon2017.temp01", "contentData": [{"commonName": "Voltage", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.06275}, {"commonName": "distance", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 1020.6313133239746}]}, "timeStamp": "2018-11-25T17:56:34.302071+09:00"}
+2018-11-25 17:56:38,448 - iaCloud - ERROR - CCS periodic store request has been retried out. The periodic acq. thread continues without data stored.
+2018-11-25 17:57:34,221 - iaCloud - INFO - CTセンサー [V]: 0.05834375
+2018-11-25 17:57:34,224 - iaCloud - INFO - 超音波センサー [cm]: 18.153905868530273
+2018-11-25 17:57:35,741 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-25 17:57:35,742 - iaCloud - ERROR - Error massage:Bad JSON response with KeyError
+　response data :{'errorMessage': 'RequestId: 267fb33b-f090-11e8-b809-e7092745811a Process exited before completing request'}
+2018-11-25 17:57:35,743 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "CT(\u96fb\u6d41\u30bb\u30f3\u30b5\u30fc)\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "com.ia-cloud.contenttype.hackathon2017.temp01", "contentData": [{"commonName": "Voltage", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.05834375}, {"commonName": "distance", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 18.153905868530273}]}, "timeStamp": "2018-11-25T17:57:34.226717+09:00"}
+2018-11-25 17:57:36,848 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-25 17:57:36,850 - iaCloud - ERROR - Error massage:Bad JSON response with KeyError
+　response data :{'errorMessage': 'RequestId: 2734f964-f090-11e8-93f7-1dff8ac44cce Process exited before completing request'}
+2018-11-25 17:57:36,852 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "CT(\u96fb\u6d41\u30bb\u30f3\u30b5\u30fc)\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "com.ia-cloud.contenttype.hackathon2017.temp01", "contentData": [{"commonName": "Voltage", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.05834375}, {"commonName": "distance", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 18.153905868530273}]}, "timeStamp": "2018-11-25T17:57:34.226717+09:00"}
+2018-11-25 17:57:38,329 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-25 17:57:38,331 - iaCloud - ERROR - Error massage:Bad JSON response with KeyError
+　response data :{'errorMessage': 'RequestId: 2810da81-f090-11e8-8c7e-fd1d3ec2465b Process exited before completing request'}
+2018-11-25 17:57:38,333 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "CT(\u96fb\u6d41\u30bb\u30f3\u30b5\u30fc)\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "com.ia-cloud.contenttype.hackathon2017.temp01", "contentData": [{"commonName": "Voltage", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.05834375}, {"commonName": "distance", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 18.153905868530273}]}, "timeStamp": "2018-11-25T17:57:34.226717+09:00"}
+2018-11-25 17:57:38,335 - iaCloud - ERROR - CCS periodic store request has been retried out. The periodic acq. thread continues without data stored.
+2018-11-25 17:58:34,221 - iaCloud - INFO - CTセンサー [V]: 0.06378125
+2018-11-25 17:58:34,225 - iaCloud - INFO - 超音波センサー [cm]: 19.576549530029297
+2018-11-25 17:58:35,445 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-25 17:58:35,446 - iaCloud - ERROR - Error massage:Bad JSON response with KeyError
+　response data :{'errorMessage': 'RequestId: 4a13abe8-f090-11e8-8e21-bf2a29372b24 Process exited before completing request'}
+2018-11-25 17:58:35,448 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "CT(\u96fb\u6d41\u30bb\u30f3\u30b5\u30fc)\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "com.ia-cloud.contenttype.hackathon2017.temp01", "contentData": [{"commonName": "Voltage", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.06378125}, {"commonName": "distance", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 19.576549530029297}]}, "timeStamp": "2018-11-25T17:58:34.226936+09:00"}
+2018-11-25 17:58:36,838 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-25 17:58:36,840 - iaCloud - ERROR - Error massage:Bad JSON response with KeyError
+　response data :{'errorMessage': 'RequestId: 4af24c05-f090-11e8-ab21-711dbf1646df Process exited before completing request'}
+2018-11-25 17:58:36,842 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "CT(\u96fb\u6d41\u30bb\u30f3\u30b5\u30fc)\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "com.ia-cloud.contenttype.hackathon2017.temp01", "contentData": [{"commonName": "Voltage", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.06378125}, {"commonName": "distance", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 19.576549530029297}]}, "timeStamp": "2018-11-25T17:58:34.226936+09:00"}
+2018-11-25 17:58:38,271 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-25 17:58:38,273 - iaCloud - ERROR - Error massage:Bad JSON response with KeyError
+　response data :{'errorMessage': 'RequestId: 4bd2c11d-f090-11e8-9044-a3249457c63c Process exited before completing request'}
+2018-11-25 17:58:38,275 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "CT(\u96fb\u6d41\u30bb\u30f3\u30b5\u30fc)\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "com.ia-cloud.contenttype.hackathon2017.temp01", "contentData": [{"commonName": "Voltage", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.06378125}, {"commonName": "distance", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 19.576549530029297}]}, "timeStamp": "2018-11-25T17:58:34.226936+09:00"}
+2018-11-25 17:58:38,277 - iaCloud - ERROR - CCS periodic store request has been retried out. The periodic acq. thread continues without data stored.
+2018-11-25 17:59:34,218 - iaCloud - INFO - CTセンサー [V]: 0.046796875
+2018-11-25 17:59:34,221 - iaCloud - INFO - 超音波センサー [cm]: 19.130706787109375
+2018-11-25 17:59:35,791 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-25 17:59:35,793 - iaCloud - ERROR - Error massage:Bad JSON response with KeyError
+　response data :{'errorMessage': 'RequestId: 6e02bcdd-f090-11e8-bef8-3d0fa11c397c Process exited before completing request'}
+2018-11-25 17:59:35,796 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "CT(\u96fb\u6d41\u30bb\u30f3\u30b5\u30fc)\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "com.ia-cloud.contenttype.hackathon2017.temp01", "contentData": [{"commonName": "Voltage", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.046796875}, {"commonName": "distance", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 19.130706787109375}]}, "timeStamp": "2018-11-25T17:59:34.223649+09:00"}
+2018-11-25 17:59:37,266 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-25 17:59:37,275 - iaCloud - ERROR - Error massage:Bad JSON response with KeyError
+　response data :{'errorMessage': 'RequestId: 6ef755df-f090-11e8-9188-eb52f7ae7ed5 Process exited before completing request'}
+2018-11-25 17:59:37,280 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "CT(\u96fb\u6d41\u30bb\u30f3\u30b5\u30fc)\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "com.ia-cloud.contenttype.hackathon2017.temp01", "contentData": [{"commonName": "Voltage", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.046796875}, {"commonName": "distance", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 19.130706787109375}]}, "timeStamp": "2018-11-25T17:59:34.223649+09:00"}
+2018-11-25 17:59:38,409 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-25 17:59:38,411 - iaCloud - ERROR - Error massage:Bad JSON response with KeyError
+　response data :{'errorMessage': 'RequestId: 6fa6cfd4-f090-11e8-9f7d-0198016e8880 Process exited before completing request'}
+2018-11-25 17:59:38,413 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "CT(\u96fb\u6d41\u30bb\u30f3\u30b5\u30fc)\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "com.ia-cloud.contenttype.hackathon2017.temp01", "contentData": [{"commonName": "Voltage", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.046796875}, {"commonName": "distance", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 19.130706787109375}]}, "timeStamp": "2018-11-25T17:59:34.223649+09:00"}
+2018-11-25 17:59:38,415 - iaCloud - ERROR - CCS periodic store request has been retried out. The periodic acq. thread continues without data stored.
+2018-11-25 17:59:46,430 - iaCloud - INFO - IaCloudApp　connection has been terminated and all data acquisition threads stopped by stop() method
+2018-11-25 17:59:46,437 - iaCloud - ERROR - Application has been terminated by key interruppt
+2018-11-25 17:59:51,454 - iaCloud - INFO - IaCloudApp is started
+2018-11-25 17:59:53,177 - iaCloud - INFO - connected to CCS
+2018-11-25 17:59:53,277 - iaCloud - INFO - CTセンサー [V]: 0.04490625
+2018-11-25 17:59:53,340 - iaCloud - INFO - 超音波センサー [cm]: 1020.8055973052979
+2018-11-25 17:59:53,853 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-25 17:59:53,854 - iaCloud - ERROR - Error massage:Bad JSON response with KeyError
+　response data :{'errorMessage': 'RequestId: 7940d9e6-f090-11e8-a925-a36ee8cd38ba Process exited before completing request'}
+2018-11-25 17:59:53,855 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "CT(\u96fb\u6d41\u30bb\u30f3\u30b5\u30fc)\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "com.ia-cloud.contenttype.hackathon2017.temp01", "contentData": [{"commonName": "Voltage", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.04490625}, {"commonName": "distance", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 1020.8055973052979}]}, "timeStamp": "2018-11-25T17:59:53.342338+09:00"}
+2018-11-25 17:59:54,962 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-25 17:59:54,963 - iaCloud - ERROR - Error massage:Bad JSON response with KeyError
+　response data :{'errorMessage': 'RequestId: 798731a4-f090-11e8-a3e8-13fadb8e0639 Process exited before completing request'}
+2018-11-25 17:59:54,965 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "CT(\u96fb\u6d41\u30bb\u30f3\u30b5\u30fc)\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "com.ia-cloud.contenttype.hackathon2017.temp01", "contentData": [{"commonName": "Voltage", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.04490625}, {"commonName": "distance", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 1020.8055973052979}]}, "timeStamp": "2018-11-25T17:59:53.342338+09:00"}
+2018-11-25 17:59:56,392 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-25 17:59:56,394 - iaCloud - ERROR - Error massage:Bad JSON response with KeyError
+　response data :{'errorMessage': 'RequestId: 7a5f691d-f090-11e8-b771-694743f43517 Process exited before completing request'}
+2018-11-25 17:59:56,397 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "CT(\u96fb\u6d41\u30bb\u30f3\u30b5\u30fc)\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "com.ia-cloud.contenttype.hackathon2017.temp01", "contentData": [{"commonName": "Voltage", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.04490625}, {"commonName": "distance", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 1020.8055973052979}]}, "timeStamp": "2018-11-25T17:59:53.342338+09:00"}
+2018-11-25 17:59:56,399 - iaCloud - ERROR - CCS periodic store request has been retried out. The periodic acq. thread continues without data stored.
+2018-11-25 17:59:57,718 - iaCloud - INFO - IaCloudApp　connection has been terminated and all data acquisition threads stopped by stop() method
+2018-11-25 17:59:57,725 - iaCloud - ERROR - Application has been terminated by key interruppt
+2018-11-25 18:00:58,214 - iaCloud - INFO - IaCloudApp is started
+2018-11-25 18:00:59,062 - iaCloud - INFO - connected to CCS
+2018-11-25 18:00:59,158 - iaCloud - INFO - CTセンサー [V]: 0.041171875000000004
+2018-11-25 18:00:59,166 - iaCloud - INFO - 超音波センサー [cm]: 23.236513137817383
+2018-11-25 18:00:59,980 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-25 18:00:59,981 - iaCloud - ERROR - Error massage:Bad JSON response with KeyError
+　response data :{'errorMessage': 'RequestId: a0a3db59-f090-11e8-8247-1792ac7066f9 Process exited before completing request'}
+2018-11-25 18:00:59,982 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "CT(\u96fb\u6d41\u30bb\u30f3\u30b5\u30fc)\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "com.ia-cloud.contenttype.hackathon2017.temp01", "contentData": [{"commonName": "Voltage", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.041171875000000004}, {"commonName": "distance", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 23.236513137817383}]}, "timeStamp": "2018-11-25T18:00:59.167887+09:00"}
+2018-11-25 18:01:01,435 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-25 18:01:01,437 - iaCloud - ERROR - Error massage:Bad JSON response with KeyError
+　response data :{'errorMessage': 'RequestId: a121e4d3-f090-11e8-8ec5-3368ab9fa806 Process exited before completing request'}
+2018-11-25 18:01:01,440 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "CT(\u96fb\u6d41\u30bb\u30f3\u30b5\u30fc)\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "com.ia-cloud.contenttype.hackathon2017.temp01", "contentData": [{"commonName": "Voltage", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.041171875000000004}, {"commonName": "distance", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 23.236513137817383}]}, "timeStamp": "2018-11-25T18:00:59.167887+09:00"}
+2018-11-25 18:01:02,606 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-25 18:01:02,607 - iaCloud - ERROR - Error massage:Bad JSON response with KeyError
+　response data :{'errorMessage': 'RequestId: a1d1d49f-f090-11e8-a5bd-3bb68be82b03 Process exited before completing request'}
+2018-11-25 18:01:02,609 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "CT(\u96fb\u6d41\u30bb\u30f3\u30b5\u30fc)\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "com.ia-cloud.contenttype.hackathon2017.temp01", "contentData": [{"commonName": "Voltage", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.041171875000000004}, {"commonName": "distance", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 23.236513137817383}]}, "timeStamp": "2018-11-25T18:00:59.167887+09:00"}
+2018-11-25 18:01:02,610 - iaCloud - ERROR - CCS periodic store request has been retried out. The periodic acq. thread continues without data stored.
+2018-11-25 18:01:03,474 - iaCloud - INFO - IaCloudApp　connection has been terminated and all data acquisition threads stopped by stop() method
+2018-11-25 18:01:03,482 - iaCloud - ERROR - Application has been terminated by key interruppt
+2018-11-25 18:01:49,879 - iaCloud - INFO - IaCloudApp is started
+2018-11-25 18:01:50,750 - iaCloud - INFO - connected to CCS
+2018-11-25 18:01:50,855 - iaCloud - INFO - CTセンサー [V]: 0.04309375
+2018-11-25 18:01:50,859 - iaCloud - INFO - 超音波センサー [cm]: 21.586894989013672
+2018-11-25 18:01:51,205 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 18:02:50,772 - iaCloud - INFO - CTセンサー [V]: 0.0466875
+2018-11-25 18:02:50,835 - iaCloud - INFO - 超音波センサー [cm]: 1020.6880569458008
+2018-11-25 18:02:51,560 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 18:03:50,771 - iaCloud - INFO - CTセンサー [V]: 0.03778125
+2018-11-25 18:04:22,828 - iaCloud - INFO - 超音波センサー [cm]: 1020.6921100616455
+2018-11-25 18:04:23,557 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 18:04:24,886 - iaCloud - INFO - IaCloudApp　connection has been terminated and all data acquisition threads stopped by stop() method
+2018-11-25 18:04:24,894 - iaCloud - ERROR - Application has been terminated by key interruppt
+2018-11-25 18:05:11,641 - iaCloud - INFO - IaCloudApp is started
+2018-11-25 18:05:12,407 - iaCloud - INFO - connected to CCS
+2018-11-25 18:05:12,500 - iaCloud - INFO - CTセンサー [V]: 0.038359375
+2018-11-25 18:05:12,506 - iaCloud - INFO - 超音波センサー [cm]: 11.101484298706055
+2018-11-25 18:05:12,855 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 18:06:12,426 - iaCloud - INFO - CTセンサー [V]: 0.0387890625
+2018-11-25 18:06:12,489 - iaCloud - INFO - 超音波センサー [cm]: 1020.5867290496826
+2018-11-25 18:06:12,996 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 18:07:12,425 - iaCloud - INFO - CTセンサー [V]: 0.038796875
+2018-11-25 18:07:44,483 - iaCloud - INFO - 超音波センサー [cm]: 1020.6596851348877
+2018-11-25 18:07:44,845 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 18:08:12,425 - iaCloud - INFO - CTセンサー [V]: 0.036859375
+2018-11-25 18:08:12,488 - iaCloud - INFO - 超音波センサー [cm]: 1020.8299160003662
+2018-11-25 18:08:12,851 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 18:09:12,426 - iaCloud - INFO - CTセンサー [V]: 0.053828125000000004
+2018-11-25 18:09:38,495 - iaCloud - INFO - 超音波センサー [cm]: 1020.7083225250244
+2018-11-25 18:09:39,048 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 18:10:12,426 - iaCloud - INFO - CTセンサー [V]: 0.0313984375
+2018-11-25 18:10:12,489 - iaCloud - INFO - 超音波センサー [cm]: 1021.2595462799072
+2018-11-25 18:10:13,191 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 18:11:12,426 - iaCloud - INFO - CTセンサー [V]: 0.0309921875
+2018-11-25 18:11:12,489 - iaCloud - INFO - 超音波センサー [cm]: 1020.6677913665771
+2018-11-25 18:11:12,864 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 18:12:12,426 - iaCloud - INFO - CTセンサー [V]: 0.030390625
+2018-11-25 18:12:12,489 - iaCloud - INFO - 超音波センサー [cm]: 1020.611047744751
+2018-11-25 18:12:12,868 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 18:13:12,427 - iaCloud - INFO - CTセンサー [V]: 0.0283203125
+2018-11-25 18:13:12,490 - iaCloud - INFO - 超音波センサー [cm]: 1020.728588104248
+2018-11-25 18:13:12,848 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 18:14:12,427 - iaCloud - INFO - CTセンサー [V]: 0.0343671875
+2018-11-25 18:14:12,490 - iaCloud - INFO - 超音波センサー [cm]: 1020.6434726715088
+2018-11-25 18:14:13,202 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 18:15:12,427 - iaCloud - INFO - CTセンサー [V]: 0.0908671875
+2018-11-25 18:15:12,466 - iaCloud - INFO - 超音波センサー [cm]: 598.0656147003174
+2018-11-25 18:15:13,108 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 18:16:12,428 - iaCloud - INFO - CTセンサー [V]: 0.08432031250000001
+2018-11-25 18:16:12,494 - iaCloud - INFO - 超音波センサー [cm]: 1064.9399757385254
+2018-11-25 18:16:12,823 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 18:17:12,428 - iaCloud - INFO - CTセンサー [V]: 0.0453046875
+2018-11-25 18:17:12,491 - iaCloud - INFO - 超音波センサー [cm]: 1020.6637382507324
+2018-11-25 18:17:13,203 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 18:18:12,428 - iaCloud - INFO - CTセンサー [V]: 0.06857031250000001
+2018-11-25 18:18:12,491 - iaCloud - INFO - 超音波センサー [cm]: 1020.4813480377197
+2018-11-25 18:18:13,185 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 18:19:12,428 - iaCloud - INFO - CTセンサー [V]: 0.061679687500000004
+2018-11-25 18:19:12,466 - iaCloud - INFO - 超音波センサー [cm]: 597.4819660186768
+2018-11-25 18:19:12,815 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 18:20:12,428 - iaCloud - INFO - CTセンサー [V]: 0.07190625
+2018-11-25 18:20:12,491 - iaCloud - INFO - 超音波センサー [cm]: 1020.6151008605957
+2018-11-25 18:20:13,513 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 18:21:12,429 - iaCloud - INFO - CTセンサー [V]: 0.07259375
+2018-11-25 18:21:12,492 - iaCloud - INFO - 超音波センサー [cm]: 1020.789384841919
+2018-11-25 18:21:13,163 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 18:22:12,429 - iaCloud - INFO - CTセンサー [V]: 0.078046875
+2018-11-25 18:22:12,492 - iaCloud - INFO - 超音波センサー [cm]: 1020.6515789031982
+2018-11-25 18:22:12,862 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 18:23:12,429 - iaCloud - INFO - CTセンサー [V]: 0.07659375
+2018-11-25 18:23:12,492 - iaCloud - INFO - 超音波センサー [cm]: 1020.6515789031982
+2018-11-25 18:23:13,163 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-25 18:23:41,762 - iaCloud - INFO - IaCloudApp　connection has been terminated and all data acquisition threads stopped by stop() method
+2018-11-25 18:23:41,773 - iaCloud - ERROR - Application has been terminated by key interruppt
