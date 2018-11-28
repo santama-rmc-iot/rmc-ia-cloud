@@ -80,7 +80,7 @@
 		"ObjectContent": {
 			"contentType": "iaCloudData",
 			"contentData":[{
-				"commonName": "Voltage",
+				"commonName": "Column1",
 				"dataName": "CTセンサー",
 				"dataValue": null,
 				"unit": "V",
@@ -88,7 +88,7 @@
 				"gain": 16,
 				"offset": 0
 			},{
-				"commonName": "Distance",
+				"commonName": "Column2",
 				"dataName": "超音波センサー",
 				"dataValue": null,
 				"unit": "cm",
