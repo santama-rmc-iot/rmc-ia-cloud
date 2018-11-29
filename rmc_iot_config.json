@@ -83,16 +83,12 @@
 				"commonName": "Column1",
 				"dataName": "CTセンサー",
 				"dataValue": null,
-				"unit": "V",
-				"options":"ct_sensor_value",
-				"gain": 16,
-				"offset": 0
+				"unit": "V"
 			},{
 				"commonName": "Column2",
 				"dataName": "超音波センサー",
 				"dataValue": null,
-				"unit": "cm",
-				"options": "usonic_sensor_value"
+				"unit": "cm"
 			}]
 		}
 	}

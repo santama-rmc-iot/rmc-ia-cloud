@@ -654,3 +654,766 @@
 2018-11-29 00:28:54,830 - iaCloud - INFO - CTセンサー [V]: 0.00928125
 2018-11-29 00:28:54,891 - iaCloud - INFO - 超音波センサー [cm]: 1021.2514400482178
 2018-11-29 00:28:55,601 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 00:29:54,833 - iaCloud - INFO - CTセンサー [V]: 0.0083671875
+2018-11-29 00:29:54,896 - iaCloud - INFO - 超音波センサー [cm]: 1020.8137035369873
+2018-11-29 00:29:56,086 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 00:30:54,833 - iaCloud - INFO - CTセンサー [V]: 0.0091875
+2018-11-29 00:30:54,837 - iaCloud - INFO - 超音波センサー [cm]: 8.933067321777344
+2018-11-29 00:33:55,896 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 00:33:55,898 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 00:33:55,900 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.0091875}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 8.933067321777344}]}, "timeStamp": "2018-11-29T00:30:54.838875+09:00"}
+2018-11-29 00:36:05,762 - iaCloud - INFO - IaCloudApp　connection has been terminated and all data acquisition threads stopped by stop() method
+2018-11-29 00:36:05,770 - iaCloud - ERROR - Application has been terminated by key interruppt
+2018-11-29 00:36:10,978 - iaCloud - ERROR - Application has been terminated by key interruppt
+2018-11-29 00:36:14,818 - iaCloud - INFO - IaCloudApp is started
+2018-11-29 00:36:15,295 - iaCloud - INFO - connected to CCS
+2018-11-29 00:36:15,385 - iaCloud - INFO - CTセンサー [V]: 0.0092578125
+2018-11-29 00:36:15,387 - iaCloud - INFO - 超音波センサー [cm]: 9.60993766784668
+2018-11-29 00:36:16,055 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 00:37:15,314 - iaCloud - INFO - CTセンサー [V]: 0.0092421875
+2018-11-29 00:37:15,317 - iaCloud - INFO - 超音波センサー [cm]: 9.046554565429688
+2018-11-29 00:37:15,769 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 00:38:15,313 - iaCloud - INFO - CTセンサー [V]: 0.0091328125
+2018-11-29 00:38:15,317 - iaCloud - INFO - 超音波センサー [cm]: 9.022235870361328
+2018-11-29 00:38:15,995 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 00:39:15,314 - iaCloud - INFO - CTセンサー [V]: 0.0090859375
+2018-11-29 00:39:15,317 - iaCloud - INFO - 超音波センサー [cm]: 8.993864059448242
+2018-11-29 00:39:16,038 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 00:40:15,314 - iaCloud - INFO - CTセンサー [V]: 0.00909375
+2018-11-29 00:40:15,318 - iaCloud - INFO - 超音波センサー [cm]: 9.115457534790039
+2018-11-29 00:40:16,016 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 00:41:15,314 - iaCloud - INFO - CTセンサー [V]: 0.0088984375
+2018-11-29 00:41:15,318 - iaCloud - INFO - 超音波センサー [cm]: 8.965492248535156
+2018-11-29 00:41:15,994 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 00:42:15,315 - iaCloud - INFO - CTセンサー [V]: 0.0088984375
+2018-11-29 00:42:15,318 - iaCloud - INFO - 超音波センサー [cm]: 8.969545364379883
+2018-11-29 00:42:16,019 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 00:43:15,316 - iaCloud - INFO - CTセンサー [V]: 0.0088671875
+2018-11-29 00:43:15,319 - iaCloud - INFO - 超音波センサー [cm]: 8.94927978515625
+2018-11-29 00:43:15,988 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 00:44:15,316 - iaCloud - INFO - CTセンサー [V]: 0.008828125000000001
+2018-11-29 00:44:15,319 - iaCloud - INFO - 超音波センサー [cm]: 8.965492248535156
+2018-11-29 00:44:16,029 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 00:45:15,316 - iaCloud - INFO - CTセンサー [V]: 0.008890625000000001
+2018-11-29 00:45:15,319 - iaCloud - INFO - 超音波センサー [cm]: 8.941173553466797
+2018-11-29 00:45:16,035 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 00:46:15,316 - iaCloud - INFO - CTセンサー [V]: 0.008765625
+2018-11-29 00:46:15,319 - iaCloud - INFO - 超音波センサー [cm]: 8.827686309814453
+2018-11-29 00:46:16,447 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 00:47:15,316 - iaCloud - INFO - CTセンサー [V]: 0.0088203125
+2018-11-29 00:47:39,321 - iaCloud - INFO - 超音波センサー [cm]: 8.588552474975586
+2018-11-29 00:47:40,023 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 00:48:15,316 - iaCloud - INFO - CTセンサー [V]: 0.0088359375
+2018-11-29 00:48:15,320 - iaCloud - INFO - 超音波センサー [cm]: 8.868217468261719
+2018-11-29 00:48:16,066 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 00:49:15,317 - iaCloud - INFO - CTセンサー [V]: 0.008812500000000001
+2018-11-29 00:49:15,320 - iaCloud - INFO - 超音波センサー [cm]: 8.94927978515625
+2018-11-29 00:49:16,089 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 00:50:15,317 - iaCloud - INFO - CTセンサー [V]: 0.008890625000000001
+2018-11-29 00:50:15,320 - iaCloud - INFO - 超音波センサー [cm]: 8.888483047485352
+2018-11-29 00:50:16,032 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 00:51:15,317 - iaCloud - INFO - CTセンサー [V]: 0.008828125000000001
+2018-11-29 00:51:15,320 - iaCloud - INFO - 超音波センサー [cm]: 8.912801742553711
+2018-11-29 00:51:15,702 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 00:52:15,318 - iaCloud - INFO - CTセンサー [V]: 0.0088984375
+2018-11-29 00:52:15,321 - iaCloud - INFO - 超音波センサー [cm]: 8.803367614746094
+2018-11-29 00:52:16,350 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 00:53:15,318 - iaCloud - INFO - CTセンサー [V]: 0.0091328125
+2018-11-29 00:53:15,321 - iaCloud - INFO - 超音波センサー [cm]: 8.916854858398438
+2018-11-29 00:53:16,030 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 00:54:15,318 - iaCloud - INFO - CTセンサー [V]: 0.0089609375
+2018-11-29 00:54:15,321 - iaCloud - INFO - 超音波センサー [cm]: 9.034395217895508
+2018-11-29 00:54:16,041 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 00:55:15,319 - iaCloud - INFO - CTセンサー [V]: 0.009171875
+2018-11-29 00:55:15,322 - iaCloud - INFO - 超音波センサー [cm]: 8.912801742553711
+2018-11-29 00:55:16,043 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 00:56:15,319 - iaCloud - INFO - CTセンサー [V]: 0.009109375
+2018-11-29 00:56:15,322 - iaCloud - INFO - 超音波センサー [cm]: 9.087085723876953
+2018-11-29 00:56:15,991 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 00:57:15,319 - iaCloud - INFO - CTセンサー [V]: 0.009125
+2018-11-29 00:57:15,322 - iaCloud - INFO - 超音波センサー [cm]: 8.977651596069336
+2018-11-29 01:00:16,572 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 01:00:16,574 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 01:00:16,576 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.009125}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 8.977651596069336}]}, "timeStamp": "2018-11-29T00:57:15.324665+09:00"}
+2018-11-29 01:03:17,914 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 01:03:17,916 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 01:03:17,918 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.009125}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 8.977651596069336}]}, "timeStamp": "2018-11-29T00:57:15.324665+09:00"}
+2018-11-29 01:06:18,973 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 01:06:18,974 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 01:06:18,976 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.009125}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 8.977651596069336}]}, "timeStamp": "2018-11-29T00:57:15.324665+09:00"}
+2018-11-29 01:06:18,978 - iaCloud - ERROR - CCS periodic store request has been retried out. The periodic acq. thread continues without data stored.
+2018-11-29 01:06:18,996 - iaCloud - INFO - CTセンサー [V]: 0.008875000000000001
+2018-11-29 01:06:18,999 - iaCloud - INFO - 超音波センサー [cm]: 8.787155151367188
+2018-11-29 01:06:20,339 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 01:07:18,995 - iaCloud - INFO - CTセンサー [V]: 0.0088515625
+2018-11-29 01:07:18,998 - iaCloud - INFO - 超音波センサー [cm]: 8.97359848022461
+2018-11-29 01:07:19,667 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 01:08:18,995 - iaCloud - INFO - CTセンサー [V]: 0.0087890625
+2018-11-29 01:08:18,998 - iaCloud - INFO - 超音波センサー [cm]: 9.099245071411133
+2018-11-29 01:08:19,706 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 01:09:18,996 - iaCloud - INFO - CTセンサー [V]: 0.008703125
+2018-11-29 01:09:18,999 - iaCloud - INFO - 超音波センサー [cm]: 8.80742073059082
+2018-11-29 01:09:19,710 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 01:10:18,996 - iaCloud - INFO - CTセンサー [V]: 0.00865625
+2018-11-29 01:10:18,999 - iaCloud - INFO - 超音波センサー [cm]: 9.289741516113281
+2018-11-29 01:10:19,729 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 01:11:18,996 - iaCloud - INFO - CTセンサー [V]: 0.008671875
+2018-11-29 01:11:18,999 - iaCloud - INFO - 超音波センサー [cm]: 8.96143913269043
+2018-11-29 01:11:19,868 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 01:12:18,996 - iaCloud - INFO - CTセンサー [V]: 0.0085546875
+2018-11-29 01:12:19,000 - iaCloud - INFO - 超音波センサー [cm]: 8.953332901000977
+2018-11-29 01:12:19,408 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 01:13:18,996 - iaCloud - INFO - CTセンサー [V]: 0.0086875
+2018-11-29 01:13:18,999 - iaCloud - INFO - 超音波センサー [cm]: 8.920907974243164
+2018-11-29 01:16:19,860 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 01:16:19,862 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 01:16:19,864 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.0086875}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 8.920907974243164}]}, "timeStamp": "2018-11-29T01:13:19.001490+09:00"}
+2018-11-29 01:19:21,423 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 01:19:21,425 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 01:19:21,427 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.0086875}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 8.920907974243164}]}, "timeStamp": "2018-11-29T01:13:19.001490+09:00"}
+2018-11-29 01:22:22,618 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 01:22:22,619 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 01:22:22,621 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.0086875}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 8.920907974243164}]}, "timeStamp": "2018-11-29T01:13:19.001490+09:00"}
+2018-11-29 01:22:22,623 - iaCloud - ERROR - CCS periodic store request has been retried out. The periodic acq. thread continues without data stored.
+2018-11-29 01:22:22,640 - iaCloud - INFO - CTセンサー [V]: 0.00940625
+2018-11-29 01:22:22,643 - iaCloud - INFO - 超音波センサー [cm]: 8.762836456298828
+2018-11-29 01:22:24,147 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 01:23:22,640 - iaCloud - INFO - CTセンサー [V]: 0.00928125
+2018-11-29 01:23:22,642 - iaCloud - INFO - 超音波センサー [cm]: 8.823633193969727
+2018-11-29 01:23:23,329 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 01:24:22,640 - iaCloud - INFO - CTセンサー [V]: 0.0092890625
+2018-11-29 01:24:22,643 - iaCloud - INFO - 超音波センサー [cm]: 8.929014205932617
+2018-11-29 01:24:23,048 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 01:25:22,640 - iaCloud - INFO - CTセンサー [V]: 0.00921875
+2018-11-29 01:25:22,643 - iaCloud - INFO - 超音波センサー [cm]: 8.981704711914062
+2018-11-29 01:25:23,339 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 01:26:22,640 - iaCloud - INFO - CTセンサー [V]: 0.0091875
+2018-11-29 01:26:22,643 - iaCloud - INFO - 超音波センサー [cm]: 8.880376815795898
+2018-11-29 01:29:23,615 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 01:29:23,617 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 01:29:23,619 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.0091875}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 8.880376815795898}]}, "timeStamp": "2018-11-29T01:26:22.645632+09:00"}
+2018-11-29 01:32:24,852 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 01:32:24,854 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 01:32:24,856 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.0091875}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 8.880376815795898}]}, "timeStamp": "2018-11-29T01:26:22.645632+09:00"}
+2018-11-29 01:35:26,120 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 01:35:26,121 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 01:35:26,123 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.0091875}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 8.880376815795898}]}, "timeStamp": "2018-11-29T01:26:22.645632+09:00"}
+2018-11-29 01:35:26,125 - iaCloud - ERROR - CCS periodic store request has been retried out. The periodic acq. thread continues without data stored.
+2018-11-29 01:35:26,142 - iaCloud - INFO - CTセンサー [V]: 0.00246875
+2018-11-29 01:35:26,146 - iaCloud - INFO - 超音波センサー [cm]: 9.022235870361328
+2018-11-29 01:35:27,075 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 01:36:26,141 - iaCloud - INFO - CTセンサー [V]: 0.0024453125
+2018-11-29 01:36:26,144 - iaCloud - INFO - 超音波センサー [cm]: 9.111404418945312
+2018-11-29 01:36:26,615 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 01:37:26,142 - iaCloud - INFO - CTセンサー [V]: 0.002453125
+2018-11-29 01:37:26,145 - iaCloud - INFO - 超音波センサー [cm]: 8.32509994506836
+2018-11-29 01:37:26,524 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 01:38:26,142 - iaCloud - INFO - CTセンサー [V]: 0.002421875
+2018-11-29 01:38:26,145 - iaCloud - INFO - 超音波センサー [cm]: 9.030342102050781
+2018-11-29 01:38:26,530 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 01:39:26,142 - iaCloud - INFO - CTセンサー [V]: 0.002453125
+2018-11-29 01:39:26,145 - iaCloud - INFO - 超音波センサー [cm]: 9.001970291137695
+2018-11-29 01:39:26,546 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 01:40:26,142 - iaCloud - INFO - CTセンサー [V]: 0.0021953125
+2018-11-29 01:40:26,145 - iaCloud - INFO - 超音波センサー [cm]: 8.93712043762207
+2018-11-29 01:40:27,057 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 01:41:26,143 - iaCloud - INFO - CTセンサー [V]: 0.0022187500000000002
+2018-11-29 01:41:26,146 - iaCloud - INFO - 超音波センサー [cm]: 9.046554565429688
+2018-11-29 01:41:26,574 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 01:42:26,143 - iaCloud - INFO - CTセンサー [V]: 0.0022343750000000002
+2018-11-29 01:42:26,146 - iaCloud - INFO - 超音波センサー [cm]: 9.176254272460938
+2018-11-29 01:42:26,526 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 01:43:26,143 - iaCloud - INFO - CTセンサー [V]: 0.0022343750000000002
+2018-11-29 01:43:26,146 - iaCloud - INFO - 超音波センサー [cm]: 9.026288986206055
+2018-11-29 01:43:26,848 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 01:44:26,144 - iaCloud - INFO - CTセンサー [V]: 0.002296875
+2018-11-29 01:44:58,394 - iaCloud - INFO - 超音波センサー [cm]: 8.977651596069336
+2018-11-29 01:44:58,742 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 01:45:26,144 - iaCloud - INFO - CTセンサー [V]: 0.0022343750000000002
+2018-11-29 01:45:26,147 - iaCloud - INFO - 超音波センサー [cm]: 8.997917175292969
+2018-11-29 01:45:26,526 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 01:46:26,144 - iaCloud - INFO - CTセンサー [V]: 0.0021875
+2018-11-29 01:46:26,147 - iaCloud - INFO - 超音波センサー [cm]: 9.10329818725586
+2018-11-29 01:49:27,412 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 01:49:27,413 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 01:49:27,415 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.0021875}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 9.10329818725586}]}, "timeStamp": "2018-11-29T01:46:26.149372+09:00"}
+2018-11-29 01:52:28,640 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 01:52:28,642 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 01:52:28,644 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.0021875}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 9.10329818725586}]}, "timeStamp": "2018-11-29T01:46:26.149372+09:00"}
+2018-11-29 01:55:29,665 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 01:55:29,666 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 01:55:29,668 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.0021875}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 9.10329818725586}]}, "timeStamp": "2018-11-29T01:46:26.149372+09:00"}
+2018-11-29 01:55:29,670 - iaCloud - ERROR - CCS periodic store request has been retried out. The periodic acq. thread continues without data stored.
+2018-11-29 01:55:29,687 - iaCloud - INFO - CTセンサー [V]: 0.0021875
+2018-11-29 01:55:29,690 - iaCloud - INFO - 超音波センサー [cm]: 9.212732315063477
+2018-11-29 01:58:31,072 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 01:58:31,074 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 01:58:31,076 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.0021875}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 9.212732315063477}]}, "timeStamp": "2018-11-29T01:55:29.692135+09:00"}
+2018-11-29 02:00:33,307 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 02:00:33,325 - iaCloud - INFO - CTセンサー [V]: 0.0022421875000000003
+2018-11-29 02:00:33,328 - iaCloud - INFO - 超音波センサー [cm]: 9.09113883972168
+2018-11-29 02:00:33,678 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 02:01:33,324 - iaCloud - INFO - CTセンサー [V]: 0.0022187500000000002
+2018-11-29 02:01:33,327 - iaCloud - INFO - 超音波センサー [cm]: 9.224891662597656
+2018-11-29 02:01:34,028 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 02:02:33,325 - iaCloud - INFO - CTセンサー [V]: 0.0022187500000000002
+2018-11-29 02:02:33,328 - iaCloud - INFO - 超音波センサー [cm]: 9.224891662597656
+2018-11-29 02:02:33,820 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 02:03:33,325 - iaCloud - INFO - CTセンサー [V]: 0.0021953125
+2018-11-29 02:03:33,328 - iaCloud - INFO - 超音波センサー [cm]: 9.228944778442383
+2018-11-29 02:03:33,862 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 02:04:33,325 - iaCloud - INFO - CTセンサー [V]: 0.0022265625000000002
+2018-11-29 02:04:33,328 - iaCloud - INFO - 超音波センサー [cm]: 9.301900863647461
+2018-11-29 02:04:33,711 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 02:05:33,326 - iaCloud - INFO - CTセンサー [V]: 0.0023828125
+2018-11-29 02:05:33,329 - iaCloud - INFO - 超音波センサー [cm]: 9.241104125976562
+2018-11-29 02:05:34,038 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 02:06:33,326 - iaCloud - INFO - CTセンサー [V]: 0.0022031250000000002
+2018-11-29 02:06:33,329 - iaCloud - INFO - 超音波センサー [cm]: 9.160041809082031
+2018-11-29 02:06:33,707 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 02:07:33,326 - iaCloud - INFO - CTセンサー [V]: 0.0022109375000000002
+2018-11-29 02:07:33,329 - iaCloud - INFO - 超音波センサー [cm]: 9.19651985168457
+2018-11-29 02:07:33,727 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 02:08:33,327 - iaCloud - INFO - CTセンサー [V]: 0.002296875
+2018-11-29 02:08:33,330 - iaCloud - INFO - 超音波センサー [cm]: 9.216785430908203
+2018-11-29 02:08:33,724 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 02:09:33,327 - iaCloud - INFO - CTセンサー [V]: 0.0022109375000000002
+2018-11-29 02:09:59,430 - iaCloud - INFO - 超音波センサー [cm]: 9.269475936889648
+2018-11-29 02:09:59,787 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 02:10:33,327 - iaCloud - INFO - CTセンサー [V]: 0.0022187500000000002
+2018-11-29 02:10:33,330 - iaCloud - INFO - 超音波センサー [cm]: 9.224891662597656
+2018-11-29 02:10:33,723 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 02:11:33,327 - iaCloud - INFO - CTセンサー [V]: 0.0022031250000000002
+2018-11-29 02:11:33,330 - iaCloud - INFO - 超音波センサー [cm]: 9.354591369628906
+2018-11-29 02:11:33,893 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 02:12:33,328 - iaCloud - INFO - CTセンサー [V]: 0.0022031250000000002
+2018-11-29 02:12:33,331 - iaCloud - INFO - 超音波センサー [cm]: 9.358644485473633
+2018-11-29 02:12:33,713 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 02:13:33,328 - iaCloud - INFO - CTセンサー [V]: 0.0022187500000000002
+2018-11-29 02:13:33,331 - iaCloud - INFO - 超音波センサー [cm]: 9.411334991455078
+2018-11-29 02:13:33,711 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 02:14:33,328 - iaCloud - INFO - CTセンサー [V]: 0.0021953125
+2018-11-29 02:14:33,331 - iaCloud - INFO - 超音波センサー [cm]: 9.245157241821289
+2018-11-29 02:14:34,092 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 02:15:33,329 - iaCloud - INFO - CTセンサー [V]: 0.00246875
+2018-11-29 02:15:33,332 - iaCloud - INFO - 超音波センサー [cm]: 9.423494338989258
+2018-11-29 02:15:33,709 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 02:16:33,329 - iaCloud - INFO - CTセンサー [V]: 0.0022343750000000002
+2018-11-29 02:16:33,332 - iaCloud - INFO - 超音波センサー [cm]: 9.35053825378418
+2018-11-29 02:16:33,877 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 02:17:33,329 - iaCloud - INFO - CTセンサー [V]: 0.002375
+2018-11-29 02:17:33,332 - iaCloud - INFO - 超音波センサー [cm]: 9.354591369628906
+2018-11-29 02:20:33,840 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 02:20:33,842 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 02:20:33,844 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.002375}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 9.354591369628906}]}, "timeStamp": "2018-11-29T02:17:33.334532+09:00"}
+2018-11-29 02:23:35,372 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 02:23:35,373 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 02:23:35,375 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.002375}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 9.354591369628906}]}, "timeStamp": "2018-11-29T02:17:33.334532+09:00"}
+2018-11-29 02:26:35,991 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 02:26:35,993 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 02:26:35,995 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.002375}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 9.354591369628906}]}, "timeStamp": "2018-11-29T02:17:33.334532+09:00"}
+2018-11-29 02:26:35,997 - iaCloud - ERROR - CCS periodic store request has been retried out. The periodic acq. thread continues without data stored.
+2018-11-29 02:26:36,014 - iaCloud - INFO - CTセンサー [V]: 0.002296875
+2018-11-29 02:26:36,018 - iaCloud - INFO - 超音波センサー [cm]: 9.318113327026367
+2018-11-29 02:26:37,410 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 02:27:36,013 - iaCloud - INFO - CTセンサー [V]: 0.0021953125
+2018-11-29 02:27:36,016 - iaCloud - INFO - 超音波センサー [cm]: 9.407281875610352
+2018-11-29 02:27:36,722 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 02:28:36,014 - iaCloud - INFO - CTセンサー [V]: 0.0022109375000000002
+2018-11-29 02:28:36,017 - iaCloud - INFO - 超音波センサー [cm]: 9.532928466796875
+2018-11-29 02:28:36,723 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 02:29:36,014 - iaCloud - INFO - CTセンサー [V]: 0.0023125
+2018-11-29 02:29:36,017 - iaCloud - INFO - 超音波センサー [cm]: 9.415388107299805
+2018-11-29 02:32:36,675 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 02:32:36,677 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 02:32:36,678 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.0023125}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 9.415388107299805}]}, "timeStamp": "2018-11-29T02:29:36.019080+09:00"}
+2018-11-29 02:35:38,037 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 02:35:38,038 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 02:35:38,040 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.0023125}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 9.415388107299805}]}, "timeStamp": "2018-11-29T02:29:36.019080+09:00"}
+2018-11-29 02:38:38,919 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 02:38:38,921 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 02:38:38,922 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.0023125}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 9.415388107299805}]}, "timeStamp": "2018-11-29T02:29:36.019080+09:00"}
+2018-11-29 02:38:38,924 - iaCloud - ERROR - CCS periodic store request has been retried out. The periodic acq. thread continues without data stored.
+2018-11-29 02:38:38,941 - iaCloud - INFO - CTセンサー [V]: 0.0023515625
+2018-11-29 02:38:38,944 - iaCloud - INFO - 超音波センサー [cm]: 9.512662887573242
+2018-11-29 02:38:40,270 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 02:39:38,941 - iaCloud - INFO - CTセンサー [V]: 0.0023828125
+2018-11-29 02:39:38,944 - iaCloud - INFO - 超音波センサー [cm]: 9.49239730834961
+2018-11-29 02:39:39,336 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 02:40:38,941 - iaCloud - INFO - CTセンサー [V]: 0.002390625
+2018-11-29 02:40:38,944 - iaCloud - INFO - 超音波センサー [cm]: 9.520769119262695
+2018-11-29 02:40:39,647 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 02:41:38,941 - iaCloud - INFO - CTセンサー [V]: 0.0023359375
+2018-11-29 02:41:38,944 - iaCloud - INFO - 超音波センサー [cm]: 9.391069412231445
+2018-11-29 02:41:39,349 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 02:42:38,942 - iaCloud - INFO - CTセンサー [V]: 0.0023203125
+2018-11-29 02:42:38,945 - iaCloud - INFO - 超音波センサー [cm]: 9.638309478759766
+2018-11-29 02:42:39,658 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 02:43:38,942 - iaCloud - INFO - CTセンサー [V]: 0.0024453125
+2018-11-29 02:44:11,475 - iaCloud - INFO - 超音波センサー [cm]: 9.391069412231445
+2018-11-29 02:44:12,277 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 02:44:38,942 - iaCloud - INFO - CTセンサー [V]: 0.0023359375
+2018-11-29 02:45:08,486 - iaCloud - INFO - 超音波センサー [cm]: 9.366750717163086
+2018-11-29 02:45:08,833 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 02:45:38,942 - iaCloud - INFO - CTセンサー [V]: 0.0023359375
+2018-11-29 02:45:38,945 - iaCloud - INFO - 超音波センサー [cm]: 9.464025497436523
+2018-11-29 02:45:39,653 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 02:46:38,943 - iaCloud - INFO - CTセンサー [V]: 0.002296875
+2018-11-29 02:46:38,946 - iaCloud - INFO - 超音波センサー [cm]: 9.484291076660156
+2018-11-29 02:46:39,318 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 02:47:38,943 - iaCloud - INFO - CTセンサー [V]: 0.002375
+2018-11-29 02:47:38,946 - iaCloud - INFO - 超音波センサー [cm]: 9.423494338989258
+2018-11-29 02:50:39,691 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 02:50:39,692 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 02:50:39,694 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.002375}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 9.423494338989258}]}, "timeStamp": "2018-11-29T02:47:38.948125+09:00"}
+2018-11-29 02:53:40,786 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 02:53:40,788 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 02:53:40,790 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.002375}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 9.423494338989258}]}, "timeStamp": "2018-11-29T02:47:38.948125+09:00"}
+2018-11-29 02:56:42,055 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 02:56:42,056 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 02:56:42,058 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.002375}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 9.423494338989258}]}, "timeStamp": "2018-11-29T02:47:38.948125+09:00"}
+2018-11-29 02:56:42,060 - iaCloud - ERROR - CCS periodic store request has been retried out. The periodic acq. thread continues without data stored.
+2018-11-29 02:56:42,077 - iaCloud - INFO - CTセンサー [V]: 0.0022500000000000003
+2018-11-29 02:56:42,080 - iaCloud - INFO - 超音波センサー [cm]: 9.447813034057617
+2018-11-29 02:56:43,314 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 02:57:42,076 - iaCloud - INFO - CTセンサー [V]: 0.0023125
+2018-11-29 02:57:42,079 - iaCloud - INFO - 超音波センサー [cm]: 9.451866149902344
+2018-11-29 03:00:43,245 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 03:00:43,247 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 03:00:43,249 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.0023125}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 9.451866149902344}]}, "timeStamp": "2018-11-29T02:57:42.081248+09:00"}
+2018-11-29 03:03:44,722 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 03:03:44,723 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 03:03:44,725 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.0023125}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 9.451866149902344}]}, "timeStamp": "2018-11-29T02:57:42.081248+09:00"}
+2018-11-29 03:06:46,165 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 03:06:46,167 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 03:06:46,169 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.0023125}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 9.451866149902344}]}, "timeStamp": "2018-11-29T02:57:42.081248+09:00"}
+2018-11-29 03:06:46,170 - iaCloud - ERROR - CCS periodic store request has been retried out. The periodic acq. thread continues without data stored.
+2018-11-29 03:06:46,188 - iaCloud - INFO - CTセンサー [V]: 0.002375
+2018-11-29 03:06:46,191 - iaCloud - INFO - 超音波センサー [cm]: 9.249210357666016
+2018-11-29 03:08:54,986 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 03:08:55,004 - iaCloud - INFO - CTセンサー [V]: 0.0023046875
+2018-11-29 03:08:55,008 - iaCloud - INFO - 超音波センサー [cm]: 9.342432022094727
+2018-11-29 03:08:55,700 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 03:09:55,003 - iaCloud - INFO - CTセンサー [V]: 0.00228125
+2018-11-29 03:09:55,006 - iaCloud - INFO - 超音波センサー [cm]: 9.370803833007812
+2018-11-29 03:09:55,715 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 03:10:55,003 - iaCloud - INFO - CTセンサー [V]: 0.002296875
+2018-11-29 03:10:55,007 - iaCloud - INFO - 超音波センサー [cm]: 9.46807861328125
+2018-11-29 03:10:55,390 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 03:11:55,004 - iaCloud - INFO - CTセンサー [V]: 0.002296875
+2018-11-29 03:11:55,007 - iaCloud - INFO - 超音波センサー [cm]: 9.695053100585938
+2018-11-29 03:11:55,405 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 03:12:55,004 - iaCloud - INFO - CTセンサー [V]: 0.0023671875
+2018-11-29 03:12:55,007 - iaCloud - INFO - 超音波センサー [cm]: 9.520769119262695
+2018-11-29 03:12:55,375 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 03:13:55,005 - iaCloud - INFO - CTセンサー [V]: 0.0023984375
+2018-11-29 03:13:55,008 - iaCloud - INFO - 超音波センサー [cm]: 9.561300277709961
+2018-11-29 03:13:55,587 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 03:14:55,005 - iaCloud - INFO - CTセンサー [V]: 0.0023359375
+2018-11-29 03:14:55,008 - iaCloud - INFO - 超音波センサー [cm]: 9.690999984741211
+2018-11-29 03:14:55,737 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 03:15:55,005 - iaCloud - INFO - CTセンサー [V]: 0.00234375
+2018-11-29 03:15:55,008 - iaCloud - INFO - 超音波センサー [cm]: 9.500503540039062
+2018-11-29 03:15:55,373 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 03:16:55,005 - iaCloud - INFO - CTセンサー [V]: 0.002328125
+2018-11-29 03:16:55,009 - iaCloud - INFO - 超音波センサー [cm]: 9.516716003417969
+2018-11-29 03:16:55,416 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 03:17:55,006 - iaCloud - INFO - CTセンサー [V]: 0.002359375
+2018-11-29 03:17:55,009 - iaCloud - INFO - 超音波センサー [cm]: 9.569406509399414
+2018-11-29 03:17:55,404 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 03:18:55,006 - iaCloud - INFO - CTセンサー [V]: 0.0023203125
+2018-11-29 03:18:55,009 - iaCloud - INFO - 超音波センサー [cm]: 9.565353393554688
+2018-11-29 03:18:55,581 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 03:19:55,006 - iaCloud - INFO - CTセンサー [V]: 0.002328125
+2018-11-29 03:19:55,010 - iaCloud - INFO - 超音波センサー [cm]: 9.658575057983398
+2018-11-29 03:19:55,429 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 03:20:55,006 - iaCloud - INFO - CTセンサー [V]: 0.002375
+2018-11-29 03:20:55,010 - iaCloud - INFO - 超音波センサー [cm]: 9.747743606567383
+2018-11-29 03:23:55,841 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 03:23:55,843 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 03:23:55,845 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.002375}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 9.747743606567383}]}, "timeStamp": "2018-11-29T03:20:55.011713+09:00"}
+2018-11-29 03:26:57,072 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 03:26:57,073 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 03:26:57,075 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.002375}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 9.747743606567383}]}, "timeStamp": "2018-11-29T03:20:55.011713+09:00"}
+2018-11-29 03:29:58,651 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 03:29:58,652 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 03:29:58,655 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.002375}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 9.747743606567383}]}, "timeStamp": "2018-11-29T03:20:55.011713+09:00"}
+2018-11-29 03:29:58,658 - iaCloud - ERROR - CCS periodic store request has been retried out. The periodic acq. thread continues without data stored.
+2018-11-29 03:29:58,676 - iaCloud - INFO - CTセンサー [V]: 0.002328125
+2018-11-29 03:29:58,680 - iaCloud - INFO - 超音波センサー [cm]: 9.395122528076172
+2018-11-29 03:30:00,074 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 03:30:58,675 - iaCloud - INFO - CTセンサー [V]: 0.0023125
+2018-11-29 03:30:58,678 - iaCloud - INFO - 超音波センサー [cm]: 9.569406509399414
+2018-11-29 03:31:59,562 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 03:31:59,584 - iaCloud - INFO - CTセンサー [V]: 0.0024140625
+2018-11-29 03:31:59,588 - iaCloud - INFO - 超音波センサー [cm]: 9.484291076660156
+2018-11-29 03:32:00,250 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 03:32:59,585 - iaCloud - INFO - CTセンサー [V]: 0.0023125
+2018-11-29 03:32:59,591 - iaCloud - INFO - 超音波センサー [cm]: 9.605884552001953
+2018-11-29 03:36:00,424 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 03:36:00,426 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 03:36:00,428 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.0023125}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 9.605884552001953}]}, "timeStamp": "2018-11-29T03:32:59.593467+09:00"}
+2018-11-29 03:39:01,517 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 03:39:01,519 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 03:39:01,521 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.0023125}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 9.605884552001953}]}, "timeStamp": "2018-11-29T03:32:59.593467+09:00"}
+2018-11-29 03:42:02,530 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 03:42:02,531 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 03:42:02,533 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.0023125}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 9.605884552001953}]}, "timeStamp": "2018-11-29T03:32:59.593467+09:00"}
+2018-11-29 03:42:02,536 - iaCloud - ERROR - CCS periodic store request has been retried out. The periodic acq. thread continues without data stored.
+2018-11-29 03:42:02,553 - iaCloud - INFO - CTセンサー [V]: 0.002515625
+2018-11-29 03:42:02,557 - iaCloud - INFO - 超音波センサー [cm]: 9.747743606567383
+2018-11-29 03:42:03,498 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 03:43:02,552 - iaCloud - INFO - CTセンサー [V]: 0.0025546875
+2018-11-29 03:43:02,555 - iaCloud - INFO - 超音波センサー [cm]: 9.71531867980957
+2018-11-29 03:43:03,377 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 03:44:02,552 - iaCloud - INFO - CTセンサー [V]: 0.002296875
+2018-11-29 03:44:02,555 - iaCloud - INFO - 超音波センサー [cm]: 9.885549545288086
+2018-11-29 03:44:02,944 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 03:45:02,553 - iaCloud - INFO - CTセンサー [V]: 0.002328125
+2018-11-29 03:45:02,556 - iaCloud - INFO - 超音波センサー [cm]: 9.654521942138672
+2018-11-29 03:45:03,416 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 03:46:02,553 - iaCloud - INFO - CTセンサー [V]: 0.0023203125
+2018-11-29 03:46:02,556 - iaCloud - INFO - 超音波センサー [cm]: 9.759902954101562
+2018-11-29 03:46:03,298 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 03:47:02,553 - iaCloud - INFO - CTセンサー [V]: 0.0024140625
+2018-11-29 03:47:02,557 - iaCloud - INFO - 超音波センサー [cm]: 9.828805923461914
+2018-11-29 03:47:03,465 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 03:48:02,554 - iaCloud - INFO - CTセンサー [V]: 0.0025234375
+2018-11-29 03:48:02,557 - iaCloud - INFO - 超音波センサー [cm]: 9.711265563964844
+2018-11-29 03:48:03,241 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 03:49:02,554 - iaCloud - INFO - CTセンサー [V]: 0.0023515625
+2018-11-29 03:49:02,557 - iaCloud - INFO - 超音波センサー [cm]: 9.646415710449219
+2018-11-29 03:49:03,247 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 03:50:02,555 - iaCloud - INFO - CTセンサー [V]: 0.00234375
+2018-11-29 03:50:02,558 - iaCloud - INFO - 超音波センサー [cm]: 9.626150131225586
+2018-11-29 03:50:03,234 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 03:51:02,555 - iaCloud - INFO - CTセンサー [V]: 0.002390625
+2018-11-29 03:51:02,558 - iaCloud - INFO - 超音波センサー [cm]: 9.800434112548828
+2018-11-29 03:51:03,275 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 03:52:02,555 - iaCloud - INFO - CTセンサー [V]: 0.0023359375
+2018-11-29 03:52:02,558 - iaCloud - INFO - 超音波センサー [cm]: 9.646415710449219
+2018-11-29 03:52:03,433 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 03:53:02,556 - iaCloud - INFO - CTセンサー [V]: 0.00234375
+2018-11-29 03:53:02,559 - iaCloud - INFO - 超音波センサー [cm]: 9.780168533325195
+2018-11-29 03:53:03,505 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 03:54:02,556 - iaCloud - INFO - CTセンサー [V]: 0.0024375
+2018-11-29 03:54:02,559 - iaCloud - INFO - 超音波センサー [cm]: 9.528875350952148
+2018-11-29 03:57:03,302 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 03:57:03,304 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 03:57:03,306 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.0024375}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 9.528875350952148}]}, "timeStamp": "2018-11-29T03:54:02.562071+09:00"}
+2018-11-29 04:00:04,924 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 04:00:04,925 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 04:00:04,927 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.0024375}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 9.528875350952148}]}, "timeStamp": "2018-11-29T03:54:02.562071+09:00"}
+2018-11-29 04:03:06,033 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 04:03:06,034 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 04:03:06,036 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.0024375}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 9.528875350952148}]}, "timeStamp": "2018-11-29T03:54:02.562071+09:00"}
+2018-11-29 04:03:06,038 - iaCloud - ERROR - CCS periodic store request has been retried out. The periodic acq. thread continues without data stored.
+2018-11-29 04:03:06,055 - iaCloud - INFO - CTセンサー [V]: 0.002359375
+2018-11-29 04:03:06,058 - iaCloud - INFO - 超音波センサー [cm]: 9.476184844970703
+2018-11-29 04:03:07,183 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 04:04:06,055 - iaCloud - INFO - CTセンサー [V]: 0.002359375
+2018-11-29 04:04:06,058 - iaCloud - INFO - 超音波センサー [cm]: 9.922027587890625
+2018-11-29 04:04:06,452 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 04:05:06,055 - iaCloud - INFO - CTセンサー [V]: 0.002359375
+2018-11-29 04:05:06,058 - iaCloud - INFO - 超音波センサー [cm]: 9.747743606567383
+2018-11-29 04:05:06,775 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 04:06:06,055 - iaCloud - INFO - CTセンサー [V]: 0.002375
+2018-11-29 04:06:06,058 - iaCloud - INFO - 超音波センサー [cm]: 9.824752807617188
+2018-11-29 04:09:06,840 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 04:09:06,842 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 04:09:06,844 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.002375}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 9.824752807617188}]}, "timeStamp": "2018-11-29T04:06:06.060411+09:00"}
+2018-11-29 04:12:08,209 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 04:12:08,210 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 04:12:08,212 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.002375}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 9.824752807617188}]}, "timeStamp": "2018-11-29T04:06:06.060411+09:00"}
+2018-11-29 04:15:09,500 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 04:15:09,502 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 04:15:09,504 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.002375}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 9.824752807617188}]}, "timeStamp": "2018-11-29T04:06:06.060411+09:00"}
+2018-11-29 04:15:09,506 - iaCloud - ERROR - CCS periodic store request has been retried out. The periodic acq. thread continues without data stored.
+2018-11-29 04:15:09,523 - iaCloud - INFO - CTセンサー [V]: 0.0024765625
+2018-11-29 04:15:09,526 - iaCloud - INFO - 超音波センサー [cm]: 9.772062301635742
+2018-11-29 04:15:10,664 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 04:16:09,522 - iaCloud - INFO - CTセンサー [V]: 0.0023984375
+2018-11-29 04:16:09,525 - iaCloud - INFO - 超音波センサー [cm]: 9.849071502685547
+2018-11-29 04:16:10,253 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 04:17:09,522 - iaCloud - INFO - CTセンサー [V]: 0.0023828125
+2018-11-29 04:17:09,525 - iaCloud - INFO - 超音波センサー [cm]: 9.800434112548828
+2018-11-29 04:17:10,207 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 04:18:09,522 - iaCloud - INFO - CTセンサー [V]: 0.0024765625
+2018-11-29 04:18:09,526 - iaCloud - INFO - 超音波センサー [cm]: 9.901762008666992
+2018-11-29 04:18:10,343 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 04:19:09,523 - iaCloud - INFO - CTセンサー [V]: 0.00234375
+2018-11-29 04:19:09,526 - iaCloud - INFO - 超音波センサー [cm]: 9.605884552001953
+2018-11-29 04:19:10,263 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 04:20:09,523 - iaCloud - INFO - CTセンサー [V]: 0.002484375
+2018-11-29 04:20:09,526 - iaCloud - INFO - 超音波センサー [cm]: 9.946346282958984
+2018-11-29 04:20:10,111 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 04:21:09,523 - iaCloud - INFO - CTセンサー [V]: 0.002390625
+2018-11-29 04:21:09,526 - iaCloud - INFO - 超音波センサー [cm]: 9.946346282958984
+2018-11-29 04:21:10,211 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 04:22:09,524 - iaCloud - INFO - CTセンサー [V]: 0.0024140625
+2018-11-29 04:22:09,527 - iaCloud - INFO - 超音波センサー [cm]: 9.909868240356445
+2018-11-29 04:22:10,194 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 04:23:09,524 - iaCloud - INFO - CTセンサー [V]: 0.00240625
+2018-11-29 04:23:09,527 - iaCloud - INFO - 超音波センサー [cm]: 9.828805923461914
+2018-11-29 04:23:10,227 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 04:24:09,525 - iaCloud - INFO - CTセンサー [V]: 0.0025859375
+2018-11-29 04:24:09,528 - iaCloud - INFO - 超音波センサー [cm]: 9.75179672241211
+2018-11-29 04:24:10,195 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 04:25:09,525 - iaCloud - INFO - CTセンサー [V]: 0.0023984375
+2018-11-29 04:25:09,528 - iaCloud - INFO - 超音波センサー [cm]: 9.828805923461914
+2018-11-29 04:25:10,562 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 04:26:09,525 - iaCloud - INFO - CTセンサー [V]: 0.0023984375
+2018-11-29 04:26:09,528 - iaCloud - INFO - 超音波センサー [cm]: 9.83285903930664
+2018-11-29 04:26:10,312 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 04:27:09,525 - iaCloud - INFO - CTセンサー [V]: 0.002359375
+2018-11-29 04:27:09,528 - iaCloud - INFO - 超音波センサー [cm]: 9.816646575927734
+2018-11-29 04:27:09,913 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 04:28:09,526 - iaCloud - INFO - CTセンサー [V]: 0.0023828125
+2018-11-29 04:28:09,529 - iaCloud - INFO - 超音波センサー [cm]: 9.772062301635742
+2018-11-29 04:28:10,269 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 04:29:09,526 - iaCloud - INFO - CTセンサー [V]: 0.002421875
+2018-11-29 04:29:09,529 - iaCloud - INFO - 超音波センサー [cm]: 9.88149642944336
+2018-11-29 04:29:10,266 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 04:30:09,526 - iaCloud - INFO - CTセンサー [V]: 0.00234375
+2018-11-29 04:30:09,530 - iaCloud - INFO - 超音波センサー [cm]: 9.780168533325195
+2018-11-29 04:30:10,473 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 04:31:09,527 - iaCloud - INFO - CTセンサー [V]: 0.0023515625
+2018-11-29 04:31:09,530 - iaCloud - INFO - 超音波センサー [cm]: 9.723424911499023
+2018-11-29 04:31:10,262 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 04:32:09,527 - iaCloud - INFO - CTセンサー [V]: 0.002359375
+2018-11-29 04:32:09,530 - iaCloud - INFO - 超音波センサー [cm]: 9.776115417480469
+2018-11-29 04:32:10,234 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 04:33:09,527 - iaCloud - INFO - CTセンサー [V]: 0.002390625
+2018-11-29 04:33:09,530 - iaCloud - INFO - 超音波センサー [cm]: 9.930133819580078
+2018-11-29 04:33:10,219 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 04:34:09,527 - iaCloud - INFO - CTセンサー [V]: 0.00240625
+2018-11-29 04:34:09,530 - iaCloud - INFO - 超音波センサー [cm]: 9.889602661132812
+2018-11-29 04:34:10,303 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 04:35:09,528 - iaCloud - INFO - CTセンサー [V]: 0.0023828125
+2018-11-29 04:35:09,531 - iaCloud - INFO - 超音波センサー [cm]: 9.885549545288086
+2018-11-29 04:35:10,363 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 04:36:09,528 - iaCloud - INFO - CTセンサー [V]: 0.0023671875
+2018-11-29 04:36:09,531 - iaCloud - INFO - 超音波センサー [cm]: 9.966611862182617
+2018-11-29 04:36:10,234 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 04:37:09,528 - iaCloud - INFO - CTセンサー [V]: 0.002421875
+2018-11-29 04:37:09,531 - iaCloud - INFO - 超音波センサー [cm]: 9.978771209716797
+2018-11-29 04:37:09,919 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 04:38:09,529 - iaCloud - INFO - CTセンサー [V]: 0.002515625
+2018-11-29 04:38:09,532 - iaCloud - INFO - 超音波センサー [cm]: 9.885549545288086
+2018-11-29 04:38:10,282 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 04:39:09,529 - iaCloud - INFO - CTセンサー [V]: 0.002359375
+2018-11-29 04:39:09,532 - iaCloud - INFO - 超音波センサー [cm]: 9.958505630493164
+2018-11-29 04:39:10,235 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 04:40:09,529 - iaCloud - INFO - CTセンサー [V]: 0.0024921875
+2018-11-29 04:40:09,532 - iaCloud - INFO - 超音波センサー [cm]: 9.808540344238281
+2018-11-29 04:40:10,410 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 04:41:09,529 - iaCloud - INFO - CTセンサー [V]: 0.0024296875
+2018-11-29 04:41:09,532 - iaCloud - INFO - 超音波センサー [cm]: 9.877443313598633
+2018-11-29 04:41:10,245 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 04:42:09,530 - iaCloud - INFO - CTセンサー [V]: 0.002359375
+2018-11-29 04:42:09,533 - iaCloud - INFO - 超音波センサー [cm]: 9.735584259033203
+2018-11-29 04:42:10,232 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 04:43:09,530 - iaCloud - INFO - CTセンサー [V]: 0.0024140625
+2018-11-29 04:43:09,533 - iaCloud - INFO - 超音波センサー [cm]: 9.897708892822266
+2018-11-29 04:43:10,209 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 04:44:09,530 - iaCloud - INFO - CTセンサー [V]: 0.0023828125
+2018-11-29 04:44:09,533 - iaCloud - INFO - 超音波センサー [cm]: 9.913921356201172
+2018-11-29 04:44:10,264 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 04:45:09,531 - iaCloud - INFO - CTセンサー [V]: 0.002484375
+2018-11-29 04:45:09,534 - iaCloud - INFO - 超音波センサー [cm]: 9.966611862182617
+2018-11-29 04:45:10,429 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 04:46:09,531 - iaCloud - INFO - CTセンサー [V]: 0.002421875
+2018-11-29 04:46:09,534 - iaCloud - INFO - 超音波センサー [cm]: 9.966611862182617
+2018-11-29 04:46:10,239 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 04:47:09,531 - iaCloud - INFO - CTセンサー [V]: 0.002390625
+2018-11-29 04:47:09,534 - iaCloud - INFO - 超音波センサー [cm]: 9.905815124511719
+2018-11-29 04:47:09,915 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 04:48:09,532 - iaCloud - INFO - CTセンサー [V]: 0.0025390625
+2018-11-29 04:48:09,535 - iaCloud - INFO - 超音波センサー [cm]: 9.885549545288086
+2018-11-29 04:48:09,988 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 04:49:09,532 - iaCloud - INFO - CTセンサー [V]: 0.002578125
+2018-11-29 04:49:09,535 - iaCloud - INFO - 超音波センサー [cm]: 9.86933708190918
+2018-11-29 04:49:10,221 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 04:50:09,532 - iaCloud - INFO - CTセンサー [V]: 0.002375
+2018-11-29 04:50:09,535 - iaCloud - INFO - 超音波センサー [cm]: 9.950399398803711
+2018-11-29 04:53:10,532 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 04:53:10,533 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 04:53:10,535 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.002375}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 9.950399398803711}]}, "timeStamp": "2018-11-29T04:50:09.537401+09:00"}
+2018-11-29 04:56:11,724 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 04:56:11,725 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 04:56:11,727 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.002375}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 9.950399398803711}]}, "timeStamp": "2018-11-29T04:50:09.537401+09:00"}
+2018-11-29 04:59:12,707 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 04:59:12,709 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 04:59:12,711 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.002375}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 9.950399398803711}]}, "timeStamp": "2018-11-29T04:50:09.537401+09:00"}
+2018-11-29 04:59:12,713 - iaCloud - ERROR - CCS periodic store request has been retried out. The periodic acq. thread continues without data stored.
+2018-11-29 04:59:12,730 - iaCloud - INFO - CTセンサー [V]: 0.0023984375
+2018-11-29 04:59:12,733 - iaCloud - INFO - 超音波センサー [cm]: 9.88149642944336
+2018-11-29 04:59:13,452 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 05:00:12,729 - iaCloud - INFO - CTセンサー [V]: 0.002484375
+2018-11-29 05:00:12,732 - iaCloud - INFO - 超音波センサー [cm]: 9.768009185791016
+2018-11-29 05:00:13,439 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 05:01:12,729 - iaCloud - INFO - CTセンサー [V]: 0.0023984375
+2018-11-29 05:01:12,733 - iaCloud - INFO - 超音波センサー [cm]: 9.970664978027344
+2018-11-29 05:01:13,387 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 05:02:12,730 - iaCloud - INFO - CTセンサー [V]: 0.00240625
+2018-11-29 05:02:12,733 - iaCloud - INFO - 超音波センサー [cm]: 9.901762008666992
+2018-11-29 05:02:13,422 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 05:03:12,730 - iaCloud - INFO - CTセンサー [V]: 0.002421875
+2018-11-29 05:03:12,733 - iaCloud - INFO - 超音波センサー [cm]: 10.003089904785156
+2018-11-29 05:03:13,404 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 05:04:12,730 - iaCloud - INFO - CTセンサー [V]: 0.00240625
+2018-11-29 05:04:12,733 - iaCloud - INFO - 超音波センサー [cm]: 9.877443313598633
+2018-11-29 05:04:13,610 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 05:05:12,731 - iaCloud - INFO - CTセンサー [V]: 0.00246875
+2018-11-29 05:05:12,734 - iaCloud - INFO - 超音波センサー [cm]: 9.913921356201172
+2018-11-29 05:05:13,422 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 05:06:12,731 - iaCloud - INFO - CTセンサー [V]: 0.0023671875
+2018-11-29 05:06:12,734 - iaCloud - INFO - 超音波センサー [cm]: 9.978771209716797
+2018-11-29 05:06:13,225 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 05:07:12,731 - iaCloud - INFO - CTセンサー [V]: 0.0025234375
+2018-11-29 05:07:12,734 - iaCloud - INFO - 超音波センサー [cm]: 10.1165771484375
+2018-11-29 05:07:13,424 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 05:08:12,732 - iaCloud - INFO - CTセンサー [V]: 0.0023671875
+2018-11-29 05:08:12,735 - iaCloud - INFO - 超音波センサー [cm]: 10.153055191040039
+2018-11-29 05:08:13,427 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 05:09:12,732 - iaCloud - INFO - CTセンサー [V]: 0.0023515625
+2018-11-29 05:09:12,735 - iaCloud - INFO - 超音波センサー [cm]: 9.96255874633789
+2018-11-29 05:09:13,674 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 05:10:12,732 - iaCloud - INFO - CTセンサー [V]: 0.002421875
+2018-11-29 05:10:12,735 - iaCloud - INFO - 超音波センサー [cm]: 9.926080703735352
+2018-11-29 05:10:13,431 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 05:11:12,733 - iaCloud - INFO - CTセンサー [V]: 0.002640625
+2018-11-29 05:11:12,736 - iaCloud - INFO - 超音波センサー [cm]: 9.865283966064453
+2018-11-29 05:11:13,423 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 05:12:12,733 - iaCloud - INFO - CTセンサー [V]: 0.002453125
+2018-11-29 05:12:12,736 - iaCloud - INFO - 超音波センサー [cm]: 9.978771209716797
+2018-11-29 05:12:13,447 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 05:13:12,733 - iaCloud - INFO - CTセンサー [V]: 0.0023984375
+2018-11-29 05:13:12,737 - iaCloud - INFO - 超音波センサー [cm]: 9.917974472045898
+2018-11-29 05:13:13,441 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 05:14:12,734 - iaCloud - INFO - CTセンサー [V]: 0.002390625
+2018-11-29 05:14:36,654 - iaCloud - INFO - 超音波センサー [cm]: 9.528875350952148
+2018-11-29 05:14:37,473 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 05:15:12,734 - iaCloud - INFO - CTセンサー [V]: 0.0024296875
+2018-11-29 05:15:12,739 - iaCloud - INFO - 超音波センサー [cm]: 9.84501838684082
+2018-11-29 05:15:13,488 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 05:16:12,734 - iaCloud - INFO - CTセンサー [V]: 0.00253125
+2018-11-29 05:16:12,738 - iaCloud - INFO - 超音波センサー [cm]: 9.982824325561523
+2018-11-29 05:16:13,425 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 05:17:12,735 - iaCloud - INFO - CTセンサー [V]: 0.0023984375
+2018-11-29 05:17:12,738 - iaCloud - INFO - 超音波センサー [cm]: 9.942293167114258
+2018-11-29 05:17:13,462 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 05:18:12,735 - iaCloud - INFO - CTセンサー [V]: 0.0024140625
+2018-11-29 05:18:12,738 - iaCloud - INFO - 超音波センサー [cm]: 9.978771209716797
+2018-11-29 05:18:13,462 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 05:19:12,735 - iaCloud - INFO - CTセンサー [V]: 0.0023515625
+2018-11-29 05:19:12,739 - iaCloud - INFO - 超音波センサー [cm]: 10.076045989990234
+2018-11-29 05:19:13,087 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 05:20:12,736 - iaCloud - INFO - CTセンサー [V]: 0.0023984375
+2018-11-29 05:20:12,739 - iaCloud - INFO - 超音波センサー [cm]: 9.96255874633789
+2018-11-29 05:20:13,595 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 05:21:12,736 - iaCloud - INFO - CTセンサー [V]: 0.0023984375
+2018-11-29 05:21:12,739 - iaCloud - INFO - 超音波センサー [cm]: 9.922027587890625
+2018-11-29 05:21:13,423 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 05:22:12,736 - iaCloud - INFO - CTセンサー [V]: 0.002390625
+2018-11-29 05:22:12,739 - iaCloud - INFO - 超音波センサー [cm]: 9.849071502685547
+2018-11-29 05:22:13,431 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 05:23:12,736 - iaCloud - INFO - CTセンサー [V]: 0.002390625
+2018-11-29 05:23:12,739 - iaCloud - INFO - 超音波センサー [cm]: 9.98687744140625
+2018-11-29 05:23:13,445 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 05:24:12,736 - iaCloud - INFO - CTセンサー [V]: 0.002375
+2018-11-29 05:24:12,740 - iaCloud - INFO - 超音波センサー [cm]: 9.820699691772461
+2018-11-29 05:27:13,579 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 05:27:13,581 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 05:27:13,583 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.002375}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 9.820699691772461}]}, "timeStamp": "2018-11-29T05:24:12.741760+09:00"}
+2018-11-29 05:30:14,867 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 05:30:14,869 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 05:30:14,870 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.002375}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 9.820699691772461}]}, "timeStamp": "2018-11-29T05:24:12.741760+09:00"}
+2018-11-29 05:33:16,022 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 05:33:16,023 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 05:33:16,025 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.002375}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 9.820699691772461}]}, "timeStamp": "2018-11-29T05:24:12.741760+09:00"}
+2018-11-29 05:33:16,027 - iaCloud - ERROR - CCS periodic store request has been retried out. The periodic acq. thread continues without data stored.
+2018-11-29 05:33:16,044 - iaCloud - INFO - CTセンサー [V]: 0.00240625
+2018-11-29 05:33:16,047 - iaCloud - INFO - 超音波センサー [cm]: 9.917974472045898
+2018-11-29 05:33:16,787 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 05:34:16,043 - iaCloud - INFO - CTセンサー [V]: 0.0023984375
+2018-11-29 05:34:16,047 - iaCloud - INFO - 超音波センサー [cm]: 10.084152221679688
+2018-11-29 05:34:16,405 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 05:35:16,044 - iaCloud - INFO - CTセンサー [V]: 0.002375
+2018-11-29 05:35:16,047 - iaCloud - INFO - 超音波センサー [cm]: 9.922027587890625
+2018-11-29 05:38:16,544 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 05:38:16,546 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 05:38:16,548 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.002375}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 9.922027587890625}]}, "timeStamp": "2018-11-29T05:35:16.048973+09:00"}
+2018-11-29 05:41:17,699 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 05:41:17,701 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 05:41:17,703 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.002375}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 9.922027587890625}]}, "timeStamp": "2018-11-29T05:35:16.048973+09:00"}
+2018-11-29 05:44:18,671 - iaCloud - ERROR - CCS Invalid Response or Http Error on periodic store.
+2018-11-29 05:44:18,672 - iaCloud - ERROR - HTTPSConnectionPool(host='r9431tn90a.execute-api.us-east-1.amazonaws.com', port=443): Max retries exceeded with url: /hackathon/api/iaCloud/rev06 (Caused by ProtocolError('Connection aborted.', OSError("(104, 'ECONNRESET')",)))
+2018-11-29 05:44:18,674 - iaCloud - ERROR - {"objectKey": "rmc-iot-santama.shimura.sensors", "objectType": "iaCloudObject", "objectDescription": "\u30bb\u30f3\u30b5\u30fc\u306e\u5024", "timestamp": null, "ObjectContent": {"contentType": "iaCloudData", "contentData": [{"commonName": "Column1", "dataName": "CT\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "V", "options": "ct_sensor_value", "gain": 16, "offset": 0, "data_value": 0.002375}, {"commonName": "Column2", "dataName": "\u8d85\u97f3\u6ce2\u30bb\u30f3\u30b5\u30fc", "dataValue": null, "unit": "cm", "options": "usonic_sensor_value", "data_value": 9.922027587890625}]}, "timeStamp": "2018-11-29T05:35:16.048973+09:00"}
+2018-11-29 05:44:18,676 - iaCloud - ERROR - CCS periodic store request has been retried out. The periodic acq. thread continues without data stored.
+2018-11-29 05:44:18,693 - iaCloud - INFO - CTセンサー [V]: 0.0024921875
+2018-11-29 05:44:18,696 - iaCloud - INFO - 超音波センサー [cm]: 10.169267654418945
+2018-11-29 05:44:19,846 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 05:45:18,693 - iaCloud - INFO - CTセンサー [V]: 0.002421875
+2018-11-29 05:45:18,696 - iaCloud - INFO - 超音波センサー [cm]: 10.01119613647461
+2018-11-29 05:45:19,216 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 05:46:18,693 - iaCloud - INFO - CTセンサー [V]: 0.0024375
+2018-11-29 05:46:18,696 - iaCloud - INFO - 超音波センサー [cm]: 10.197639465332031
+2018-11-29 05:46:19,119 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 05:47:18,693 - iaCloud - INFO - CTセンサー [V]: 0.002515625
+2018-11-29 05:47:18,696 - iaCloud - INFO - 超音波センサー [cm]: 10.266542434692383
+2018-11-29 05:47:19,426 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 05:48:18,693 - iaCloud - INFO - CTセンサー [V]: 0.0024296875
+2018-11-29 05:48:18,696 - iaCloud - INFO - 超音波センサー [cm]: 10.120630264282227
+2018-11-29 05:48:19,393 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 05:49:18,694 - iaCloud - INFO - CTセンサー [V]: 0.0024296875
+2018-11-29 05:49:18,697 - iaCloud - INFO - 超音波センサー [cm]: 10.007143020629883
+2018-11-29 05:49:19,074 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 05:50:18,694 - iaCloud - INFO - CTセンサー [V]: 0.002484375
+2018-11-29 05:50:18,697 - iaCloud - INFO - 超音波センサー [cm]: 9.994983673095703
+2018-11-29 05:50:19,181 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 05:51:18,694 - iaCloud - INFO - CTセンサー [V]: 0.002421875
+2018-11-29 05:51:18,697 - iaCloud - INFO - 超音波センサー [cm]: 10.108470916748047
+2018-11-29 05:51:19,070 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 05:52:18,695 - iaCloud - INFO - CTセンサー [V]: 0.002453125
+2018-11-29 05:52:18,698 - iaCloud - INFO - 超音波センサー [cm]: 10.09225845336914
+2018-11-29 05:52:19,089 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 05:53:18,695 - iaCloud - INFO - CTセンサー [V]: 0.0024140625
+2018-11-29 05:53:18,698 - iaCloud - INFO - 超音波センサー [cm]: 10.189533233642578
+2018-11-29 05:53:19,436 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 05:54:18,695 - iaCloud - INFO - CTセンサー [V]: 0.0024609375
+2018-11-29 05:54:18,698 - iaCloud - INFO - 超音波センサー [cm]: 9.917974472045898
+2018-11-29 05:54:19,065 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 05:55:18,696 - iaCloud - INFO - CTセンサー [V]: 0.0024375
+2018-11-29 05:55:18,699 - iaCloud - INFO - 超音波センサー [cm]: 10.063886642456055
+2018-11-29 05:55:19,263 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 05:56:18,696 - iaCloud - INFO - CTセンサー [V]: 0.002609375
+2018-11-29 05:56:18,699 - iaCloud - INFO - 超音波センサー [cm]: 10.019302368164062
+2018-11-29 05:56:19,110 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 05:57:18,696 - iaCloud - INFO - CTセンサー [V]: 0.00246875
+2018-11-29 05:57:18,699 - iaCloud - INFO - 超音波センサー [cm]: 10.027408599853516
+2018-11-29 05:57:19,283 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 05:58:18,697 - iaCloud - INFO - CTセンサー [V]: 0.0024609375
+2018-11-29 08:22:15,036 - iaCloud - INFO - IaCloudApp　connection has been terminated and all data acquisition threads stopped by stop() method
+2018-11-29 08:22:15,044 - iaCloud - ERROR - Application has been terminated by key interruppt
+2018-11-29 22:44:57,954 - iaCloud - INFO - IaCloudApp is started
+2018-11-29 22:45:02,628 - iaCloud - INFO - connected to CCS
+2018-11-29 22:45:02,718 - iaCloud - INFO - CTセンサー [V]: 0.0268046875
+2018-11-29 22:45:02,779 - iaCloud - INFO - 超音波センサー [cm]: 1021.1420059204102
+2018-11-29 22:45:03,182 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 22:46:02,646 - iaCloud - INFO - CTセンサー [V]: 0.02678125
+2018-11-29 22:46:02,650 - iaCloud - INFO - 超音波センサー [cm]: 17.40407943725586
+2018-11-29 22:46:03,103 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 22:46:06,361 - iaCloud - INFO - IaCloudApp　connection has been terminated and all data acquisition threads stopped by stop() method
+2018-11-29 22:46:06,369 - iaCloud - ERROR - Application has been terminated by key interruppt
+2018-11-29 22:47:42,179 - iaCloud - INFO - IaCloudApp is started
+2018-11-29 22:47:42,851 - iaCloud - INFO - connected to CCS
+2018-11-29 22:47:42,946 - iaCloud - INFO - CTセンサー [V]: 0.0261875
+2018-11-29 22:47:43,009 - iaCloud - INFO - 超音波センサー [cm]: 1020.9028720855713
+2018-11-29 22:47:43,716 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 22:48:42,870 - iaCloud - INFO - CTセンサー [V]: 0.02528125
+2018-11-29 22:48:42,873 - iaCloud - INFO - 超音波センサー [cm]: 16.820430755615234
+2018-11-29 22:48:43,690 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-11-29 22:49:42,869 - iaCloud - INFO - CTセンサー [V]: 0.024890625
+2018-11-29 22:49:42,873 - iaCloud - INFO - 超音波センサー [cm]: 16.48402214050293
+2018-11-29 22:49:43,555 - iaCloud - INFO - CCS periodic store request has been sent successfully

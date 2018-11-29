@@ -147,7 +147,10 @@ class MyIaCloudApp(IaCloudApp):
 			sensors = obj_content["contentData"]
 
 			for sensor in sensors:
-				sensor["data_value"] = eval(sensor["options"])()
+				if sensor["dataName"] == "CTセンサー":
+					sensor["data_value"] = ct_sensor_value()
+				elif sensor["dataName"] == "超音波センサー":
+					sensor["data_value"] = usonic_sensor_value()
 
 				msg = "{0} [{1}]: {2}".format(sensor["dataName"], sensor["unit"], sensor["data_value"])
 				self.logger.info(msg)
