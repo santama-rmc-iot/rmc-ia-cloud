@@ -1271,3 +1271,47 @@
 2018-12-01 17:16:04,169 - iaCloud - INFO - ダミー [value]: 0
 2018-12-01 17:16:04,170 - iaCloud - INFO - ダミー [value]: 0
 2018-12-01 17:16:04,565 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-12-04 00:02:16,561 - iaCloud - INFO - IaCloudApp is started
+2018-12-04 00:02:18,271 - iaCloud - INFO - connected to CCS
+2018-12-04 00:02:18,351 - iaCloud - INFO - CTセンサー [V]: 0.093125
+2018-12-04 00:02:18,355 - iaCloud - INFO - 超音波センサー [cm]: 18.940210342407227
+2018-12-04 00:02:18,356 - iaCloud - INFO - ダミー [value]: 0
+2018-12-04 00:02:18,357 - iaCloud - INFO - ダミー [value]: 0
+2018-12-04 00:02:18,358 - iaCloud - INFO - ダミー [value]: 0
+2018-12-04 00:02:18,360 - iaCloud - INFO - ダミー [value]: 0
+2018-12-04 00:02:19,299 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-12-04 00:02:23,993 - iaCloud - INFO - IaCloudApp　connection has been terminated and all data acquisition threads stopped by stop() method
+2018-12-04 00:02:24,000 - iaCloud - ERROR - Application has been terminated by key interruppt
+2018-12-04 00:02:46,008 - iaCloud - INFO - IaCloudApp is started
+2018-12-04 00:02:46,703 - iaCloud - INFO - connected to CCS
+2018-12-04 00:02:46,780 - iaCloud - INFO - CTセンサー [V]: -3.125e-05
+2018-12-04 00:02:46,841 - iaCloud - INFO - 超音波センサー [cm]: 1021.2595462799072
+2018-12-04 00:02:46,842 - iaCloud - INFO - ダミー [value]: 0
+2018-12-04 00:02:46,842 - iaCloud - INFO - ダミー [value]: 0
+2018-12-04 00:02:46,843 - iaCloud - INFO - ダミー [value]: 0
+2018-12-04 00:02:46,844 - iaCloud - INFO - ダミー [value]: 0
+2018-12-04 00:02:47,440 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-12-04 00:02:59,725 - iaCloud - INFO - IaCloudApp　connection has been terminated and all data acquisition threads stopped by stop() method
+2018-12-04 00:02:59,732 - iaCloud - ERROR - Application has been terminated by key interruppt
+2018-12-04 00:03:17,185 - iaCloud - INFO - IaCloudApp is started
+2018-12-04 00:03:18,360 - iaCloud - INFO - connected to CCS
+2018-12-04 00:03:18,519 - iaCloud - INFO - CTセンサー [V]: 0.0004375
+2018-12-04 00:03:18,522 - iaCloud - INFO - 超音波センサー [cm]: 9.46807861328125
+2018-12-04 00:03:18,523 - iaCloud - INFO - ダミー [value]: 0
+2018-12-04 00:03:18,524 - iaCloud - INFO - ダミー [value]: 0
+2018-12-04 00:03:18,526 - iaCloud - INFO - ダミー [value]: 0
+2018-12-04 00:03:18,527 - iaCloud - INFO - ダミー [value]: 0
+2018-12-04 00:03:18,858 - iaCloud - INFO - CCS periodic store request has been sent successfully
+2018-12-04 00:03:25,585 - iaCloud - INFO - IaCloudApp　connection has been terminated and all data acquisition threads stopped by stop() method
+2018-12-04 00:03:25,592 - iaCloud - ERROR - Application has been terminated by key interruppt
+2018-12-04 00:03:40,640 - iaCloud - INFO - IaCloudApp is started
+2018-12-04 00:03:41,612 - iaCloud - INFO - connected to CCS
+2018-12-04 00:03:41,772 - iaCloud - INFO - CTセンサー [V]: 0.0006718750000000001
+2018-12-04 00:04:08,656 - iaCloud - INFO - IaCloudApp　connection has been terminated and all data acquisition threads stopped by stop() method
+2018-12-04 00:04:08,887 - iaCloud - ERROR - Application has been terminated by key interruppt
+2018-12-04 00:04:08,888 - iaCloud - INFO - cannot read usonic_sensor. So set 0. 
+2018-12-04 00:04:08,889 - iaCloud - INFO - 超音波センサー [cm]: 0
+2018-12-04 00:04:08,890 - iaCloud - INFO - ダミー [value]: 0
+2018-12-04 00:04:08,891 - iaCloud - INFO - ダミー [value]: 0
+2018-12-04 00:04:08,891 - iaCloud - INFO - ダミー [value]: 0
+2018-12-04 00:04:08,892 - iaCloud - INFO - ダミー [value]: 0

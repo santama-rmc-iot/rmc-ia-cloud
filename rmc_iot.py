@@ -48,6 +48,7 @@ TOGGLE＿INTERVAL = 30
 # GPIO event監視チャネル
 EVENT_CH = 40
 
+
 def ct_sensor_value():
 	adc = Adafruit_ADS1x15.ADS1115()
 	return adc.read_adc(0, 16) * (0.256 / 32768)
@@ -57,6 +58,8 @@ def usonic_sensor_value():
 	time.sleep(0.00001)
 	GPIO.output(12, False)
 
+	# ECHOがHIGHになった時刻を受付時刻とする。 0:LOW , 1:HIGH
+	# HIGHは超音波戻りまちの意
 	while GPIO.input(16) == 0:
 		signal_off = time.time()
 
@@ -147,13 +150,21 @@ class MyIaCloudApp(IaCloudApp):
 			sensors = obj_content["contentData"]
 
 			for sensor in sensors:
-				if sensor["dataName"] == "CTセンサー":
-					sensor["dataValue"] = ct_sensor_value()
-				elif sensor["dataName"] == "超音波センサー":
-					sensor["dataValue"] = usonic_sensor_value()
+					if sensor["dataName"] == "CTセンサー":
+						try:
+							sensor["dataValue"] = ct_sensor_value()
+						except:
+							sensor["dataValue"] = 0
+							self.logger.info("cannot read ct_sensor. So set 0. ")
+					elif sensor["dataName"] == "超音波センサー":
+						try:
+							sensor["dataValue"] = usonic_sensor_value()
+						except:
+							sensor["dataValue"] = 0
+							self.logger.info("cannot read usonic_sensor. So set 0. ")
 
-				msg = "{0} [{1}]: {2}".format(sensor["dataName"], sensor["unit"], sensor["dataValue"])
-				self.logger.info(msg)
+					msg = "{0} [{1}]: {2}".format(sensor["dataName"], sensor["unit"], sensor["dataValue"])
+					self.logger.info(msg)
 
 		else : obj_content["contentData"] = []
 
