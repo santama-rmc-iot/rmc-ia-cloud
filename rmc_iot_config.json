@@ -72,13 +72,12 @@
 		"objectKey": "rmc-iot-santama.shimura.sensors",
 		"objectType": "iaCloudObject",
 		"objectDescription":  "センサーの値",
-		"timestamp": null,
 		"options":{
 			"period": 60,
 			"source": "SENSORS_INFO"
 		},
 		"ObjectContent": {
-			"contentType": "iaCloudData",
+			"contentType": "com.ia-cloud.contenttype.hackathon2017.temp01",
 			"contentData":[{
 				"commonName": "Column1",
 				"dataName": "CTセンサー",
@@ -89,6 +88,26 @@
 				"dataName": "超音波センサー",
 				"dataValue": null,
 				"unit": "cm"
+			},{
+				"commonName": "Column3",
+				"dataName": "ダミー",
+				"dataValue": 0,
+				"unit": "value"
+			},{
+				"commonName": "Column4",
+				"dataName": "ダミー",
+				"dataValue": 0,
+				"unit": "value"
+			},{
+				"commonName": "Column5",
+				"dataName": "ダミー",
+				"dataValue": 0,
+				"unit": "value"
+			},{
+				"commonName": "Column6",
+				"dataName": "ダミー",
+				"dataValue": 0,
+				"unit": "value"
 			}]
 		}
 	}
